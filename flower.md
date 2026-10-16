@@ -5,14 +5,14 @@
 - **Climate background**: Central Berkeley flats (near University Ave / Trader Joe’s; not the Berkeley Hills) ≈ USDA 10a on the 2023 map, with 10b pockets nearby; the 2012 map showed 10a here. Warm-summer Mediterranean (Köppen Csb) with strong marine influence: cooler, foggier summers than the hills (frequent afternoon marine layer that can persist into evening), mild winters, rare frost, ~22–25" annual rain.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally reduced on foggy days).
 
-| English name | 中文名 | Berkeley 种植要点 | 香味笔记 | 花期（香味月） | 亚洲文化笔记 |
+| English name | Chinese name | Berkeley cultivation notes | Scent notes | Bloom period (scent months) | Asian cultural notes |
 |---|---|---|---|---|---|
-| Wintersweet（Chimonanthus praecox） | 蜡梅 | 好种：全日照至半阴，排水极好（怕湿脚），成型后耐旱；黄花香远胜白花[1] | ★★★★ 冷香，气温越低越冲；黄香（'Aureus'/'苏雨仙'系）浓烈，白花型很淡 | 12–2 月 | "花历"腊月花神；与桂花、栀子、瑞香并称"花中四雅"；文人画"冷香"清高人格的符号 |
+| Wintersweet (Chimonanthus praecox) | 蜡梅 | Easy to grow: full sun to partial shade, excellent drainage (does not tolerate standing water around the roots), drought-tolerant once established; yellow-flowered types are far more fragrant than white-flowered ones[1] | ★★★★ Cold fragrance that intensifies as temperatures drop; the yellow types ('Aureus'/'苏雨仙' lineage) are intense, white-flowered types are very faint | Dec–Feb | The twelfth-month (腊月) flower deity of the traditional "Flower Calendar" (花历); long prized in Chinese literati culture for its "cold fragrance" (冷香) as a symbol of lofty, unworldly character; sometimes grouped with other fragrant classics, though the standard "Four Gentlemen" (花中四君子) are plum, orchid, bamboo and chrysanthemum |
 | Cheiranth（Cheiranthus cheiri） | 桂竹香[2] | 好种：冷凉型一/二年生，全日照，怕涝，勤摘残花可延长花期 | ★★★★ 十字花科的辛辣甜香，老式"墙头香" | 12–3 月 | 唐代即入中国名园（《本草》与唐诗皆有），是中文语境里最古老的冬香花之一 |
 | White Champaca（Magnolia × alba） | 白兰 | 全表最难：亚热带动植物，Berkeley 凉雾冬是致命项；建议盆栽+冬季挪入暖处；地栽开花是稀事 | ★★★★★ 花担香/白兰茶香的基准；凉爽清晨最浓 | 12–3 月（湾区）；暖区可多季 | 岭南与老上海民俗核心：发间簪花、街边花担、白兰茶，粤语文化里的乡愁符号；近亲黄缅桂（champaca）是南亚印度教/佛教供花 |
-| Banana Shrub（Michelia figo，旧称 Magnolia figo） | 含笑 | 极好种：耐寒耐旱，全日照至半阴，几乎不用管 | ★★★–★★★★ 香蕉甜香，晨间与凉时最明显 | 12–9 月（近四季，冬/秋两旺） | "文殊含笑"出自维摩诘经公案；成语"含笑九泉"因花得名；文人画常见题咏 |
+| Banana Shrub (Michelia figo, syn. Magnolia figo) | 含笑 | Extremely easy: cold- and drought-tolerant, full sun to partial shade, almost maintenance-free | ★★★–★★★★ Banana-sweet fragrance, strongest in the morning and when cool | Primarily spring (Apr–Jun), with possible extension into summer/fall in mild Bay Area climates | "Manjushri’s smile" from the Vimalakirti Sutra; the idiom "smile in the netherworld" derives from the flower; common subject in literati painting |
 | Winter Daphne（Daphne odora） | 瑞香 | 好种（瑞香属里最省事的）：排水利落是生死线，夏干，全日照至半阴；湾区表现比东部还好 | ★★★★★ 冬春最浓重的木本香之一 | 1–3 月（湾区比东部更早） | "花中四雅"之一；名即"祥瑞之香"，有唐代灵验传说；普陀山紫竹林（观音道场）植瑞香 |
-| Paperwhite Narcissus（Narcissus 'Tête-à-Tête' 等 tazetta 系） | 洋水仙（纸白型）[3] | 好种：tazetta 系是少数适应加州的水仙；秋植，关键在**夏干休眠期排水**，忌长期淋雨 | ★★★★ tazetta 系浓香（多数洋水仙无香，此系与同属的中国水仙一样香） | 2–3 月 | 本种无亚洲文化背景；真正的"年花"是国产水仙（N. tazetta var. chinensis，春节水仙盆），勿混 |
+| Paperwhite Narcissus (Narcissus papyraceus / tazetta group) | 洋水仙（纸白型）[3] | Easy: tazetta group (incl. paperwhites) is among the few narcissus well-adapted to California; plant in fall; critical is drainage during the dry summer dormancy, avoid prolonged wet feet | ★★★★ Strong fragrance typical of the tazetta group (most other narcissus are scentless or weakly scented) | Feb–Mar | No traditional Asian cultural background for this Western tazetta form; the classic Chinese New Year narcissus is N. tazetta var. chinensis — do not confuse the two |
 | Hyacinth（Hyacinthus orientalis） | 风信子 | 湾区明星球根（比郁金香可靠得多）：10 月种深 15cm，排水好，夏干 | ★★★★★ 早春气味天花板；室内一瓶满屋 | 2–4 月 | 中东/地中海系，亚洲无传统；靠气味本身进入现代亚洲生活（切花/室内香） |
 | 'Brandywine' Crabapple（Malus 'Branzam' / Brandywine®） | 海棠（'Brandywine'）[4] | 好种：小乔木，全日照，幼树给水，成熟耐旱；注意痂病（中等抗性）与锈病（较差） | ★★★★ 重瓣玫瑰粉色花，浓香；果实偏苦 | 3–4 月（花） | 海棠是经典"海棠四品"（贴梗/垂丝/西府/日本）的春天象征；'Brandywine' 是 1970s–80s Simpson Nursery 培育的重瓣粉色开花海棠，果实较大（约 1"）但偏苦/单宁高，无亚洲渊源。名字与著名的 Brandywine 番茄无关 |
 | Mexican Orange Blossom（Choisya ternata） | 三叶橙花 | 极好种：加州/墨西哥原生，零维护，耐旱，全日照至半阴 | ★★★ 橙花（neroli 型）香，中等 | 3–4 月（偶有秋末返花） | 北美原生，亚洲文化无背景；因闻起来像橙花而被亚洲园圃接纳 |
@@ -42,7 +42,7 @@
 
 [4] **海棠 vs 'Brandywine'**："海棠"在中文里是一个文化大概念（贴梗/垂丝/西府/日本海棠）；'Brandywine'（学名 Malus 'Branzam'）是 1970s–80s 由 Indiana 的 Simpson Nursery 培育的重瓣粉色开花海棠，果实约 1 英寸偏苦。名字借用常见地名，与著名的 19 世纪 Brandywine 番茄（以宾州/特拉华边界 Brandywine Creek 命名）无关，与中国海棠无亲缘。
 
-[5] **多花素馨不是"真茉莉"**：茉莉花茶用的是 J. multiflorum（虎丘茉莉）；J. polyanthum 是西南原产的强健藤本，商品名"粉茉莉/云南茉莉"，香味更冲。
+[5] **多花素馨不是"真茉莉"**：茉莉花茶主要用 *Jasminum sambac*（阿拉伯茉莉/虎丘茉莉）；*J. polyanthum* 是西南原产的强健藤本，商品名"粉茉莉/云南茉莉"，香味更冲。
 
 [6] **白丁香的学名歧义**：中文"白丁香"通常指紫丁香（S. vulgaris）的白花品种；但在海岸/湾区，香花丁香 S. reticulata（白花，耐旱耐雾）是更靠谱的选择。买苗时认准学名：S. vulgaris = 中等难度，S. reticulata = 简单。
 
