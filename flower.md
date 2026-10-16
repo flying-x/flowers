@@ -1,9 +1,9 @@
 # Berkeley 香花名录 · Fragrant Flower Reference for Berkeley, CA
 
-22 种香花（scented plants），中英文名对照。按**花期起点（12 月 → 9 月）**排序，方便全年对表。
+22 scented plants with bilingual (Chinese–English) names. Sorted by **bloom start (December → September)** for easy year-round reference.
 
-- 气候背景：Berkeley ≈ USDA 10a/10b（2023 地图；旧图多为 9b/10a），地中海气候——干热夏、湿凉冬、常年海雾。
-- 香味等级：★–★★★★★（臂距内闻到的强度，雾天普遍打折）。
+- **Climate background**: Berkeley ≈ USDA 10a/10b (2023 map; older maps mostly 9b/10a), Mediterranean climate — hot dry summers, cool wet winters, frequent marine fog.
+- **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally reduced on foggy days).
 
 | English name | 中文名 | Berkeley 种植要点 | 香味笔记 | 花期（香味月） | 亚洲文化笔记 |
 |---|---|---|---|---|---|
