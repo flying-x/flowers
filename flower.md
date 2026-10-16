@@ -2,7 +2,7 @@
 
 22 scented plants with bilingual (Chinese–English) names. Sorted by **bloom start (December → September)** for easy year-round reference.
 
-- **Climate background**: Berkeley ≈ USDA 10a/10b (2023 map; older maps mostly 9b/10a), Mediterranean climate — hot dry summers, cool wet winters, frequent marine fog.
+- **Climate background**: Central Berkeley flats (near University Ave / Trader Joe’s; not the Berkeley Hills) ≈ USDA 10a/10b (2023 map; older maps mostly 9b/10a), Mediterranean climate — hot dry summers, cool wet winters, frequent marine fog.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally reduced on foggy days).
 
 | English name | 中文名 | Berkeley 种植要点 | 香味笔记 | 花期（香味月） | 亚洲文化笔记 |
