@@ -69,7 +69,7 @@ Flower photos resized from Wikimedia Commons (CC BY-SA / public domain) or open 
 - Mexican Orange: *File:Choisya Inflorescence FR 2013.jpg* (JLPC, CC BY-SA)
 - Pink Jasmine: *File:Jasminum polyanthum flowers.JPG* (B.navez)
 - Chinese Wisteria: open web (Wisteria sinensis)
-- Perfumed Currant: *File:Ribes-odoratum-flowers.JPG* (Sten Porse). Note: flowers of *R. odoratum* are yellow (often confused with *R. aureum*); photo matches the species.
+- Perfumed Currant: *File:Ribes-odoratum-flowers.JPG* (Sten Porse, CC). Note: Commons source tagged *R. odoratum*; flowers in photo are yellow. *R. odoratum* is frequently treated as a variety of or confused with *R. aureum* (golden currant); standard references (Missouri Botanical Garden, RHS, etc.) describe the flowers as yellow. White-flowered photos of the species were not readily available.
 - Lilac (white): open web (Syringa vulgaris white form)
 - Gardenia: *File:Gardenia jasminoides flower.jpg* (Md Arif bd)
 - Cleveland Sage: open web (Salvia clevelandii in bloom, lavender spikes)
