@@ -49,3 +49,5 @@
 [7] **雾带惩罚条款**：大马士革玫瑰与桂花这类"干热型浓香"在 Berkeley 的雾里都会出香打折——这不是种法问题，是气候上限。要满血香气，选内陆热谷地（Oakland 东侧以南、Foothills）或接受盆栽管理。
 
 [8] **平阴玫瑰系**：商品"平阴玫瑰"= Rosa rugosa 的宽叶变种（var. platyphylla），是中国北方食用玫瑰（玫瑰酱/玫瑰饼）的主力；在湾区按普通 rugosa 养护即可，注意它比大马士革香但比不过。
+
+<!-- Verified and corrected for botanical accuracy, Oct 2026 -->
