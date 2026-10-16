@@ -5,9 +5,9 @@
 - **Climate background**: Central Berkeley flats (near University Ave / Trader Joe’s; not the Berkeley Hills) ≈ USDA 10a on the 2023 map, with 10b pockets nearby; the 2012 map showed 10a here. Warm-summer Mediterranean (Köppen Csb) with strong marine influence: cooler, foggier summers than the hills (frequent afternoon marine layer that can persist into evening), mild winters, rare frost, ~22–25" annual rain.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally reduced on foggy days).
 
-| English name | 中文名 | Berkeley 种植要点 | 香味笔记 | 花期（香味月） | 亚洲文化笔记 |
+| English name | Chinese name | Berkeley cultivation notes | Scent notes | Bloom period (scent months) | Asian cultural notes |
 |---|---|---|---|---|---|
-| Wintersweet（Chimonanthus praecox） | 蜡梅 | 好种：全日照至半阴，排水极好（怕湿脚），成型后耐旱；黄花香远胜白花[1] | ★★★★ 冷香，气温越低越冲；黄香（'Aureus'/'苏雨仙'系）浓烈，白花型很淡 | 12–2 月 | "花历"腊月花神；与桂花、栀子、瑞香并称"花中四雅"；文人画"冷香"清高人格的符号 |
+| Wintersweet (Chimonanthus praecox) | 蜡梅 | Easy to grow: full sun to partial shade, excellent drainage (hates wet feet), drought-tolerant once established; yellow-flowered types are far more fragrant than white-flowered ones[1] | ★★★★ Cold fragrance that intensifies as temperatures drop; the yellow types ('Aureus'/'苏雨仙' lineage) are intense, white-flowered types are very faint | Dec–Feb | The twelfth-month (腊月) flower deity of the traditional "Flower Calendar" (花历); counted among the "Four Elegances of Flowers" (花中四雅) with osmanthus (桂花), gardenia (栀子) and daphne (瑞香); in literati painting, a symbol of lofty, unworldly character through the "cold fragrance" (冷香) |
 | Cheiranth（Cheiranthus cheiri） | 桂竹香[2] | 好种：冷凉型一/二年生，全日照，怕涝，勤摘残花可延长花期 | ★★★★ 十字花科的辛辣甜香，老式"墙头香" | 12–3 月 | 唐代即入中国名园（《本草》与唐诗皆有），是中文语境里最古老的冬香花之一 |
 | White Champaca（Magnolia × alba） | 白兰 | 全表最难：亚热带动植物，Berkeley 凉雾冬是致命项；建议盆栽+冬季挪入暖处；地栽开花是稀事 | ★★★★★ 花担香/白兰茶香的基准；凉爽清晨最浓 | 12–3 月（湾区）；暖区可多季 | 岭南与老上海民俗核心：发间簪花、街边花担、白兰茶，粤语文化里的乡愁符号；近亲黄缅桂（champaca）是南亚印度教/佛教供花 |
 | Banana Shrub（Michelia figo，旧称 Magnolia figo） | 含笑 | 极好种：耐寒耐旱，全日照至半阴，几乎不用管 | ★★★–★★★★ 香蕉甜香，晨间与凉时最明显 | 12–9 月（近四季，冬/秋两旺） | "文殊含笑"出自维摩诘经公案；成语"含笑九泉"因花得名；文人画常见题咏 |
