@@ -69,7 +69,7 @@ Flower photos resized from Wikimedia Commons (CC BY-SA / public domain) or open 
 - Mexican Orange: *File:Choisya Inflorescence FR 2013.jpg* (JLPC, CC BY-SA)
 - Pink Jasmine: *File:Jasminum polyanthum flowers.JPG* (B.navez)
 - Chinese Wisteria: open web (Wisteria sinensis)
-- Perfumed Currant: *File:Ribes-odoratum-flowers.JPG* (Sten Porse). *R. odoratum* = *R. aureum* var. villosum in modern taxonomy; photo shows the yellow-flowered form, which is the California-native one better suited to the Bay Area, while the row's perfumed currant is the strongly scented white-flowered eastern form. Note the row describes the white form; consider a white-flowered photo if strict visual match matters. White/cream photos of the eastern form were not readily available on Commons.
+- Perfumed Currant: Dave's Garden member photo (re-hosted via Pinterest), cream/white-flowered form of clove currant. Note: standard botanical descriptions (FNA, MOBOT, RHS) list flowers as yellow; this photo is used per preference for the white/cream form. *R. odoratum* = *R. aureum* var. villosum.
 - Lilac (white): open web (Syringa vulgaris white form)
 - Gardenia: *File:Gardenia jasminoides flower.jpg* (Md Arif bd)
 - Cleveland Sage: open web (Salvia clevelandii in bloom, lavender spikes)
