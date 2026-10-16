@@ -56,10 +56,27 @@
 
 ## Image credits
 
-Flower photos are from Wikimedia Commons (CC or public domain) or public web sources, resized for this reference. Specific files:
+Flower photos resized from Wikimedia Commons (CC BY-SA / public domain) or open web sources. Full attribution and licenses are on the original Commons file pages.
 
-- Wintersweet: Chimonanthus praecox, Morris Arboretum (Shuvaev)
-- Wallflower: Erysimum cheiri gold garden flowers (Jina Lee)
-- White Champaca: White champak flower (SKsiddhartthan)
-- Banana Shrub: Michelia figo flower (Midori)
-- And others sourced from Commons / open web; see original Wikimedia pages for full attribution and licenses.
+- Wintersweet: *File:Chimonanthus praecox, Morris Arboretum 02.jpg* (Shuvaev, CC)
+- Wallflower: *File:Erysimum cheiri gold garden flowers.jpg* (Jina Lee, CC BY-SA)
+- White Champaca: *File:White champak flower.jpg* (SKsiddhartthan)
+- Banana Shrub: *File:Michelia figo flower.JPG* (Midori, CC BY-SA)
+- Winter Daphne: open web (Daphne odora in bloom)
+- Paperwhite: *File:Narcissus papyraceus 'Paper-White Narcissus' (Amaryllidaceae) flowers HDR.jpg* (Magnus Manske)
+- Hyacinth: open web (Hyacinthus orientalis in bloom)
+- 'Brandywine' Crabapple: general double pink Malus blossom (proxy; specific cultivar photo scarce)
+- Mexican Orange: *File:Choisya Inflorescence FR 2013.jpg* (JLPC, CC BY-SA)
+- Pink Jasmine: *File:Jasminum polyanthum flowers.JPG* (B.navez)
+- Chinese Wisteria: open web (Wisteria sinensis)
+- Perfumed Currant: *File:Ribes-odoratum-flowers.JPG* (Sten Porse). Note: flowers of *R. odoratum* are yellow (often confused with *R. aureum*); photo matches the species.
+- Lilac (white): open web (Syringa vulgaris white form)
+- Gardenia: *File:Gardenia jasminoides flower.jpg* (Md Arif bd)
+- Cleveland Sage: open web (Salvia clevelandii in bloom, lavender spikes)
+- California Mock Orange: *File:Philadelphus lewisii (7283693140).jpg*
+- Damask Rose: open web (Rosa × damascena)
+- Rugosa Rose: open web (Rosa rugosa)
+- Lavender: open web (Lavandula angustifolia)
+- Star Jasmine: open web (Trachelospermum jasminoides)
+- Flowering Tobacco: open web (Nicotiana alata)
+- Sweet Osmanthus: open web (Osmanthus fragrans)
