@@ -338,7 +338,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Perfumed Currant （ Ribes odoratum ）
+        Perfumed Currant (Ribes odoratum)
         <br>
         <img src="assets/flowers/perfumed-currant.jpg" alt="Perfumed Currant" />
       </td>
@@ -346,8 +346,10 @@ start (December → September)** for easy year-round reference.
         香醋栗（香水醋栗）
       </td>
       <td>
-        可种：北美中部原生（明尼苏达至德克萨斯一带，非太平洋沿岸），喜凉，全日照
-        至半阴，成型后耐旱。 Note: this white-flowered eastern form is a
+        Growable: native to central North America (Minnesota to Texas, not the
+        Pacific coast), cool-climate lover, full sun to part shade,
+        drought-tolerant once established.
+        Note: this white-flowered eastern form is a
         cold-climate shrub (USDA 3–4) and is one of the harder plants in the
         table for the Bay Area — it survives Berkeley winters but needs
         consistent moisture and summer protection from dry heat/fog-free heat (a
@@ -356,13 +358,15 @@ start (December → September)** for easy year-round reference.
         form that thrives here if scent can be traded for reliability.
       </td>
       <td>
-        ★★★★★ 茉莉+橙花/丁香型花香，浆果灌木里很香
+        ★★★★★ Jasmine + orange-blossom / clove-type floral scent, one of the
+        most fragrant berry shrubs
       </td>
       <td>
-        5–6 月
+        May–Jun
       </td>
       <td>
-        北美中部原生，亚洲文化无背景；对亚洲园圃是" 新移民"
+        A central North American native with no Asian cultural background; a
+        "newcomer" to Asian gardens
       </td>
     </tr>
     <tr>
