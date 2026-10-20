@@ -304,7 +304,7 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         Native to Southwest China (Yunnan / Guizhou), a close relative of the
-        J. multiflorum used for jasmine tea; no deep cultural lore of its own
+        jasmines used for jasmine tea; no deep cultural lore of its own
       </td>
     </tr>
     <tr>
