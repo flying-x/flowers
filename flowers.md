@@ -283,7 +283,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Pink Jasmine （ Jasminum polyanthum ）
+        Pink Jasmine (Jasminum polyanthum)
         <br>
         <img src="assets/flowers/pink-jasmine.jpg" alt="Pink Jasmine" />
       </td>
@@ -291,17 +291,20 @@ start (December → September)** for easy year-round reference.
         多花素馨（花市称" 粉茉莉/多花茉莉" ）[5]
       </td>
       <td>
-        极好种：强健常绿藤，爱地中海气候，全日照，成型后耐旱；需要攀爬物
+        Extremely easy: vigorous evergreen climber, loves Mediterranean
+        climate, full sun, drought-tolerant once established; needs a support
+        to climb
       </td>
       <td>
-        ★★★★★" 茉莉族" 里最香；粉色花苞开白，夏夜尤烈
+        ★★★★★ The most fragrant of the "jasmines"; pink buds open white,
+        especially intense on summer nights
       </td>
       <td>
-        3–10 月（春最盛）
+        Mar–Oct (heaviest in spring)
       </td>
       <td>
-        原产中国西南（滇黔），与茉莉花茶所用的 J. multiflorum 同属近缘；本身无深
-        度文化典故
+        Native to Southwest China (Yunnan / Guizhou), a close relative of the
+        J. multiflorum used for jasmine tea; no deep cultural lore of its own
       </td>
     </tr>
     <tr>
