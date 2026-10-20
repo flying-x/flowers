@@ -200,7 +200,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Hyacinth （ Hyacinthus orientalis ）
+        Hyacinth (Hyacinthus orientalis)
         <br>
         <img src="assets/flowers/hyacinth.jpg" alt="Hyacinth" />
       </td>
@@ -215,13 +215,16 @@ start (December → September)** for easy year-round reference.
         temporary indoor forcing
       </td>
       <td>
-        ★★★★★ 早春气味天花板；室内一瓶满屋
+        ★★★★★ The strongest of the early-spring scents — a single vase
+        indoors fills the whole house
       </td>
       <td>
-        2–4 月
+        Feb–Apr (indoor forcing); Mar–Apr (outdoors)
       </td>
       <td>
-        中东/地中海系，亚洲无传统；靠气味本身进入现代亚洲生活（切花/室内香）
+        A Middle Eastern / Mediterranean plant with no traditional place
+        in Asian flower culture; it entered modern Asian life on the
+        strength of its scent alone (cut flowers, indoor fragrance)
       </td>
     </tr>
     <tr>
