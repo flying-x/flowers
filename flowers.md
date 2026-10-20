@@ -371,8 +371,8 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Lilac, white （ Syringa vulgaris 白花系；海岸更稳： Syringa reticulata
-        香花丁香）
+        Lilac, white (Syringa vulgaris white cultivars; more reliable on the
+        coast: Syringa reticulata, Japanese tree lilac)
         <br>
         <img src="assets/flowers/lilac.jpg" alt="Lilac, white" />
       </td>
@@ -380,18 +380,25 @@ start (December → September)** for easy year-round reference.
         白丁香[6]
       </td>
       <td>
-        中等： S. vulgaris 在湾区能活但偏水土不服（它爱更湿更凉的东部气候）——全
-        日照+排水+夏补一点水；图省心选 S. reticulata ，耐旱耐雾
+        Moderate: S. vulgaris survives in the Bay Area but is a marginal
+        fit (it prefers the colder, wetter Eastern climate) — full sun +
+        good drainage + a little summer water; the low-maintenance pick is
+        S. reticulata, which shrugs off drought and fog
       </td>
       <td>
-        ★★★★ 白花品种通常比紫花更冲
+        ★★★★ White cultivars are usually harder-hitting than the purple
+        ones (a common grower observation — scent varies by cultivar, so
+        check the specific variety)
       </td>
       <td>
-        5–6 月
+        May–Jun
       </td>
       <td>
-        " 丁香结" ——花苞未展如结，李商隐" 芭蕉不展丁香结" ，中国诗词里幽郁愁思的
-        经典意象（多指紫丁香）；日本视丁香为早春报春花
+        The "lilac knot" (丁香结) — unopened buds clustered like a knot:
+        Li Shangyin's " 芭蕉不展丁香结" ("the banana leaf stays furled, the
+        lilac knots unloosed") is the classic image of pent-up sorrow in
+        Chinese poetry (mostly the purple lilac); in Japan the lilac
+        (ハシドイ, hashidoi) is a familiar early-spring bloom
       </td>
     </tr>
     <tr>
