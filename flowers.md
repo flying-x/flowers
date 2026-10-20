@@ -216,7 +216,7 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         ★★★★★ The strongest of the early-spring scents — a single vase
-        indoors fills the whole house
+        fills a room
       </td>
       <td>
         Feb–Apr (indoor forcing); Mar–Apr (outdoors)
