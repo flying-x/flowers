@@ -48,7 +48,7 @@
 
 [7] **The fog-belt penalty clause**: "dry-heat heavy-scent" plants like Damask rose and sweet osmanthus 桂花 all get their scent discounted in Berkeley's fog — this is not a growing-practice issue, it is a climate ceiling. For full-strength scent, choose inland hot valley floors (inland East Bay south of Oakland's east side, the Foothills) or accept pot culture.
 
-[8] **The 平阴玫瑰 (Pingyin rose) line**: commercial "平阴玫瑰" = the broad-leaved variety of *Rosa rugosa* (var. *platyphylla*), the workhorse of northern China's edible roses (rose jam 玫瑰酱 / rose cakes 玫瑰饼); in the Bay Area grow it like an ordinary *R. rugosa* — note it is scentier than Damask rose but does not quite match it.
+[8] **The 平阴玫瑰 (Pingyin rose) line**: commercial "平阴玫瑰" = the broad-leaved variety of *Rosa rugosa* (var. *platyphylla*), the workhorse of northern China's edible roses (rose jam 玫瑰酱 / rose cakes 玫瑰饼); in the Bay Area grow it like an ordinary *R. rugosa* — its scent is pleasant but far weaker than Damask rose (the reference standard for rose perfumes and edible roses), matching the row's ★★★ rating.
 
 <!-- Verified and corrected for botanical accuracy, Oct 2026 -->
 
