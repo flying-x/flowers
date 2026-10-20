@@ -259,7 +259,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Mexican Orange Blossom （ Choisya ternata ）
+        Mexican Orange Blossom (Choisya ternata)
         <br>
         <img src="assets/flowers/mexican-orange.jpg" alt="Mexican Orange Blossom" />
       </td>
@@ -267,16 +267,18 @@ start (December → September)** for easy year-round reference.
         三叶橙花
       </td>
       <td>
-        极好种：加州/墨西哥原生，零维护，耐旱，全日照至半阴
+        Extremely easy: native to California / Mexico, zero maintenance,
+        drought-tolerant, full sun to part shade
       </td>
       <td>
-        ★★★ 橙花（ neroli 型）香，中等
+        ★★★ Orange-blossom (neroli-type) scent, moderate
       </td>
       <td>
-        3–4 月（偶有秋末返花）
+        Mar–Apr (occasional late-summer / fall rebloom)
       </td>
       <td>
-        北美原生，亚洲文化无背景；因闻起来像橙花而被亚洲园圃接纳
+        A North American native with no Asian cultural background; it was
+        adopted into Asian gardens on the strength of its orange-blossom scent
       </td>
     </tr>
     <tr>
