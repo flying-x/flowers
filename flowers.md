@@ -251,7 +251,7 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         Crabapples (海棠) are a classic spring symbol in Chinese garden culture,
-        through the "Four Crabapples" (贴梗/垂丝/西府/日本); 'Brandywine' is a
+         'Brandywine' is a
         double-pink flowering crab bred by Simpson Nursery in the 1970s–80s,
         with large-ish fruit (~1") that is bitter / high in tannin, and no
         Asian pedigree — its name is unrelated to the famous Brandywine tomato
