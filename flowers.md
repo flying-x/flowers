@@ -309,7 +309,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Chinese Wisteria （ Wisteria sinensis ）
+        Chinese Wisteria (Wisteria sinensis)
         <br>
         <img src="assets/flowers/chinese-wisteria.jpg" alt="Chinese Wisteria" />
       </td>
@@ -317,18 +317,23 @@ start (December → September)** for easy year-round reference.
         紫藤
       </td>
       <td>
-        能种：日紫藤更香但雾区长不好，两难之下选本种；植株巨大，要钢架级支撑；幼
-        树给水，成型耐旱；沿海有逸生记录，别放篱边
+        Growable: Japanese wisteria (W. floribunda) is more fragrant but does
+        poorly in the fog belt, so this species is the compromise; the plant
+        gets huge and needs steel-frame support; water while young,
+        drought-tolerant once established; escaped / naturalized plants are
+        reported along the coast — keep it off property lines
       </td>
       <td>
-        ★★★ 淡甜香，远弱于日紫藤（ W. floribunda ）
+        ★★★ Mild sweet scent, far weaker than Japanese wisteria
+        (W. floribunda)
       </td>
       <td>
-        4–5 月（先花后叶或同步）
+        Apr–May (flowers before or with the leaves)
       </td>
       <td>
-        唐宋以来诗词书画常客；日本有藤花祭（ fuji ）；韩国视紫藤为长寿/婚姻美满
-        的象征
+        A staple of poetry, calligraphy and painting since the Tang / Song
+        eras; Japan has wisteria festivals (藤花祭, fuji); Korea regards
+        wisteria as a symbol of longevity / a happy marriage
       </td>
     </tr>
     <tr>
