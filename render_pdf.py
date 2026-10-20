@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render flowers.md to flowers.pdf (A4) via pandoc + headless Chromium.
+"""Render flowers.md to flowers.pdf (US Letter) via pandoc + headless Chromium.
 
 Requires: pandoc (3.x), the `playwright` Python package with Chromium
 installed (`playwright install chromium`), and a CJK font for the Chinese
@@ -18,7 +18,7 @@ HERE = Path(__file__).resolve().parent
 MD, HTML, PDF = HERE / "flowers.md", HERE / "flowers.html", HERE / "flowers.pdf"
 
 CSS = """
-@page { size: A4; margin: 14mm 12mm; }
+@page { size: Letter; margin: 14mm 12mm; }
 body { font-family: "DejaVu Sans","Droid Sans Fallback",sans-serif; font-size: 11px; color:#1a1a1a; line-height:1.45; }
 h1 { font-size: 20px; border-bottom: 2px solid #444; padding-bottom: 6px; }
 h2 { font-size: 15px; margin-top: 22px; color: #2c5f2d; }
@@ -52,7 +52,7 @@ with sync_playwright() as p:
     pg = b.new_page()
     pg.goto(HTML.as_uri(), wait_until="networkidle", timeout=60000)
     pg.evaluate("document.fonts.ready.then(()=>{})")
-    pg.pdf(path=str(PDF), format="A4", print_background=True,
+    pg.pdf(path=str(PDF), format="Letter", print_background=True,
            margin={"top": "14mm", "bottom": "14mm", "left": "12mm", "right": "12mm"})
     b.close()
 

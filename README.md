@@ -3,14 +3,14 @@
 A bilingual (English/Chinese) fragrant-flower calendar for the Berkeley, CA
 area. `flowers.md` lists 22 scent plants sorted by bloom start (December →
 September), with a climate section, footnotes, and 400×400 photos in
-`assets/flowers/`; `flowers.pdf` is its A4 print version.
+`assets/flowers/`; `flowers.pdf` is its US Letter print version.
 
 ## Files
 
 - `flowers.md` — the source document. The flower table is a **raw HTML
   `<table>`** (not a GFM pipe table — see below).
-- `flowers.pdf` — A4 render of `flowers.md`. It is a **static snapshot** —
-  re-render it after any edit to `flowers.md`.
+- `flowers.pdf` — US Letter render of `flowers.md`. It is a **static snapshot**
+  — re-render it after any edit to `flowers.md`.
 - `render_pdf.py` — the PDF render script (pandoc + headless Chromium).
 - `assets/flowers/` — 22 flower photos (source/license per image: the "Image
   credits" section in `flowers.md`).
@@ -71,8 +71,8 @@ The script runs exactly two stages:
    → HTML fragment (`smart` keeps curly quotes/dashes; `tex_math_dollars` stops
    `$` signs from becoming TeX math), wrapped in a minimal HTML document with
    the print CSS (the same CSS is in `render_pdf.py`),
-1. print to A4 with headless Chromium (fixed table column widths, 150 px photo
-   width, no page breaks inside rows).
+1. print to US Letter with headless Chromium (fixed table column widths, 150 px
+   photo width, no page breaks inside rows).
 
 Two CSS details are load-bearing — do not drop them:
 
