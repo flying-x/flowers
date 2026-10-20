@@ -267,7 +267,7 @@ start (December → September)** for easy year-round reference.
         三叶橙花
       </td>
       <td>
-        Extremely easy: native to California / Mexico, zero maintenance,
+        Extremely easy: native to Mexico, zero maintenance,
         drought-tolerant, full sun to part shade
       </td>
       <td>
