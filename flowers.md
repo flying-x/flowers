@@ -199,7 +199,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Hyacinth （ Hyacinthus orientalis ）
+        Hyacinth (Hyacinthus orientalis)
         <br>
         <img src="assets/flowers/hyacinth.jpg" alt="Hyacinth" />
       </td>
@@ -208,19 +208,25 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         Primarily an indoor forcing bulb (pre-chilled or chilled, then bloomed
-        in soil or water; often discarded after). Can also be planted outdoors
-        in fall (15 cm deep, good drainage, dry summer dormancy) and may persist
-        as a garden bulb in mild Bay Area conditions, but the classic use is
-        temporary indoor forcing
+        in soil or water; often discarded after). It also grows well in
+        Berkeley: plant outdoors in fall (15 cm deep, good drainage) — the
+        dry summer dormancy our climate provides is exactly what it needs
+        (wet summers are what kills it) — and it often persists, even
+        naturalizing, as a garden bulb; local nurseries (e.g. Berkeley
+        Horticultural Nursery) stock it as a standard spring bulb. The
+        classic use, though, is temporary indoor forcing
       </td>
       <td>
-        ★★★★★ 早春气味天花板；室内一瓶满屋
+        ★★★★★ The strongest of the early-spring scents — a single vase
+        fills a room
       </td>
       <td>
-        2–4 月
+        Feb–Apr (indoor forcing); Mar–Apr (outdoors)
       </td>
       <td>
-        中东/地中海系，亚洲无传统；靠气味本身进入现代亚洲生活（切花/室内香）
+        A Middle Eastern / Mediterranean plant with no traditional place
+        in Asian flower culture; it entered modern Asian life on the
+        strength of its scent alone (cut flowers, indoor fragrance)
       </td>
     </tr>
     <tr>
