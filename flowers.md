@@ -209,10 +209,13 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         Primarily an indoor forcing bulb (pre-chilled or chilled, then bloomed
-        in soil or water; often discarded after). Can also be planted outdoors
-        in fall (15 cm deep, good drainage, dry summer dormancy) and may persist
-        as a garden bulb in mild Bay Area conditions, but the classic use is
-        temporary indoor forcing
+        in soil or water; often discarded after). It also grows well in
+        Berkeley: plant outdoors in fall (15 cm deep, good drainage) — the
+        dry summer dormancy our climate provides is exactly what it needs
+        (wet summers are what kills it) — and it often persists, even
+        naturalizing, as a garden bulb; local nurseries (e.g. Berkeley
+        Horticultural Nursery) stock it as a standard spring bulb. The
+        classic use, though, is temporary indoor forcing
       </td>
       <td>
         ★★★★★ The strongest of the early-spring scents — a single vase
