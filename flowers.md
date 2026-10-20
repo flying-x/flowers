@@ -51,8 +51,7 @@ start (December → September)** for easy year-round reference.
         The twelfth-month (腊月) flower deity of the traditional "Flower
         Calendar" (花历); long prized in Chinese literati culture for its "cold
         fragrance" (冷香) as a symbol of lofty, unworldly character; sometimes
-        grouped with other fragrant classics, though the standard "Four
-        Gentlemen" (花中四君子) are plum, orchid, bamboo and chrysanthemum
+        grouped with other fragrant classics
       </td>
     </tr>
     <tr>
