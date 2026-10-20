@@ -32,23 +32,23 @@
 
 ---
 
-## 脚注
+## 脚注 · Footnotes
 
-[1] **蜡梅选黄色系**：白花蜡梅的香味普遍很淡；要香就种黄绿色花（'Aureus'、'Aureospiculata'/'苏雨仙'）。
+[1] **Wintersweet — plant the yellow-flowered types**: white-flowered chimonanthus is generally faint; for real scent, grow the yellow-green-flowered types ('Aureus', 'Aureospiculata' / 苏雨仙 "Su Yuxian").
 
-[2] **桂竹香**是 Cheiranthus cheiri 的中文正名（十字花科桂竹香属），与"桂花""竹"无关，只是古名沿用；英文 cheiranth/wallflower 亦同源。
+[2] **Wallflower 桂竹香** is the standard Chinese name for *Cheiranthus cheiri* (Brassicaceae, genus *Cheiranthus*) — unrelated to osmanthus 桂花 or bamboo 竹; the name is just an inherited old term. The English plant name cheiranth (from the genus name) likewise shares the same Greek root.
 
-[3] **洋水仙 vs 中国水仙**：paperwhite 是西方 tazetta 杂交系；中国传统年花是国产水仙（N. tazetta var. chinensis），二者同属但文化系统完全不同。
+[3] **Paperwhite vs Chinese narcissus**: paperwhite belongs to the Western *tazetta* hybrid line; the traditional Chinese New Year flower is the Chinese narcissus (*N. tazetta* var. *chinensis*). Same genus, entirely different cultural systems.
 
-[4] **海棠 vs 'Brandywine'**："海棠"在中文里是一个文化大概念（贴梗/垂丝/西府/日本海棠）；'Brandywine'（学名 Malus 'Branzam'）是 1970s–80s 由 Indiana 的 Simpson Nursery 培育的重瓣粉色开花海棠，果实约 1 英寸偏苦。名字借用常见地名，与著名的 19 世纪 Brandywine 番茄（以宾州/特拉华边界 Brandywine Creek 命名）无关，与中国海棠无亲缘。
+[4] **海棠 "haitang" vs 'Brandywine'**: 海棠 in Chinese is a broad cultural term covering flowering crabapples/quince (贴梗 / 垂丝 / 西府 / 日本海棠); 'Brandywine' (botanical name *Malus* 'Branzam') is a double-petaled pink-flowering crabapple bred by Simpson Nursery in Indiana in the 1970s–80s, fruit ~1 inch, rather bitter. The name is a common place name, unrelated to the famous 19th-century Brandywine tomato (named for Brandywine Creek on the PA/DE border), and no kin to Chinese 海棠.
 
-[5] **多花素馨不是"真茉莉"**：茉莉花茶主要用 *Jasminum sambac*（阿拉伯茉莉/虎丘茉莉）；*J. polyanthum* 是西南原产的强健藤本，商品名"粉茉莉/云南茉莉"，香味更冲。
+[5] **多花素馨 is not "true jasmine"**: jasmine tea is made mainly from *Jasminum sambac* (Arabian jasmine / 虎丘茉莉 Huqiu jasmine); *J. polyanthum* is a hardy vine native to southwestern China, sold as "粉茉莉/云南茉莉" (pink jasmine / Yunnan jasmine), with a stronger, more assertive scent.
 
-[6] **白丁香的学名歧义**：中文"白丁香"通常指紫丁香（S. vulgaris）的白花品种；但在海岸/湾区，香花丁香 S. reticulata（白花，耐旱耐雾）是更靠谱的选择。买苗时认准学名：S. vulgaris = 中等难度，S. reticulata = 简单。
+[6] **The name "白丁香" (white lilac) is ambiguous**: Chinese "白丁香" usually means white-flowered cultivars of common lilac (*S. vulgaris*); but on the coast / in the Bay Area, the fragrant lilac *S. reticulata* (white, drought- and fog-tolerant) is the more dependable choice. Buy by botanical name: *S. vulgaris* = moderate difficulty, *S. reticulata* = easy.
 
-[7] **雾带惩罚条款**：大马士革玫瑰与桂花这类"干热型浓香"在 Berkeley 的雾里都会出香打折——这不是种法问题，是气候上限。要满血香气，选内陆热谷地（Oakland 东侧以南、Foothills）或接受盆栽管理。
+[7] **The fog-belt penalty clause**: "dry-heat heavy-scent" plants like Damask rose and sweet osmanthus 桂花 all get their scent discounted in Berkeley's fog — this is not a growing-practice issue, it is a climate ceiling. For full-strength scent, choose inland hot valley floors (inland East Bay south of Oakland's east side, the Foothills) or accept pot culture.
 
-[8] **平阴玫瑰系**：商品"平阴玫瑰"= Rosa rugosa 的宽叶变种（var. platyphylla），是中国北方食用玫瑰（玫瑰酱/玫瑰饼）的主力；在湾区按普通 rugosa 养护即可，注意它比大马士革香但比不过。
+[8] **The 平阴玫瑰 (Pingyin rose) line**: commercial "平阴玫瑰" = the broad-leaved variety of *Rosa rugosa* (var. *platyphylla*), the workhorse of northern China's edible roses (rose jam 玫瑰酱 / rose cakes 玫瑰饼); in the Bay Area grow it like an ordinary *R. rugosa* — its scent is pleasant but far weaker than Damask rose (the reference standard for rose perfumes and edible roses), matching the row's ★★★ rating.
 
 <!-- Verified and corrected for botanical accuracy, Oct 2026 -->
 
