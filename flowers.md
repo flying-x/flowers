@@ -403,7 +403,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Gardenia （ Gardenia jasminoides ）
+        Gardenia (Gardenia jasminoides)
         <br>
         <img src="assets/flowers/gardenia.jpg" alt="Gardenia" />
       </td>
@@ -411,18 +411,25 @@ start (December → September)** for easy year-round reference.
         栀子花
       </td>
       <td>
-        好种名单里最难：酸性土（ pH&lt;6 ）、持续湿润、补铁、防霜；雾带反给一点
-        湿度；最稳方案是盆栽+冬季挪入
+        The hardest on the easy-to-grow list: acidic soil (pH&lt;6), consistent
+        moisture, iron supplements, frost protection; the fog belt actually
+        lends a little humidity; the most reliable plan is a pot + moving
+        inside for winter
       </td>
       <td>
-        ★★★★★ 白花朵朵满屋，单支即可充满一个房间
+        ★★★★★ White flowers everywhere, a house full of scent; even a single
+        stem fills a room
       </td>
       <td>
-        5–9 月（湾区盛于夏末）
+        May–Sep (peaks late summer in the Bay Area)
       </td>
       <td>
-        " 花中四雅" 之一；果实是传统天然黄染料（栀子黄）与中药；流行文化里《栀子
-        花开》= 青春/夏日符号；日本" くちなし" 偏哀愁意象（墓地植栽传统）
+        One of the "Four Flower Elegances" (花中四雅); its fruit is the
+        traditional natural yellow dye (栀子黄, gardenia yellow) and a
+        Chinese medicine (栀子, shanzhizi); in pop culture 《栀子花开》
+        ("Gardenia Blooms") = the symbol of youth / summer; in Japan
+        くちなし carries a melancholy image (the cemetery-planting
+        tradition)
       </td>
     </tr>
     <tr>
