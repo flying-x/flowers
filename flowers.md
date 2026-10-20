@@ -231,7 +231,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        'Brandywine' Crabapple （ Malus 'Branzam' / Brandywine ®）
+        'Brandywine' Crabapple (Malus 'Branzam' / Brandywine®)
         <br>
         <img src="assets/flowers/brandywine.jpg" alt="'Brandywine' Crabapple" />
       </td>
@@ -239,19 +239,22 @@ start (December → September)** for easy year-round reference.
         海棠（'Brandywine'）[4]
       </td>
       <td>
-        好种：小乔木，全日照，幼树给水，成熟耐旱；注意痂病（中等抗性）与锈病（较
-        差）
+        Easy to grow: small tree, full sun, water while young, drought-tolerant
+        once established; watch for scab (moderate resistance) and rust (poorer
+        resistance)
       </td>
       <td>
-        ★★★★ 重瓣玫瑰粉色花，浓香；果实偏苦
+        ★★★★ Double rose-pink flowers, strongly scented; fruit rather bitter
       </td>
       <td>
-        3–4 月（花）
+        Mar–Apr (flowers)
       </td>
       <td>
-        海棠是经典" 海棠四品" （贴梗/垂丝/西府/日本）的春天象征；'Brandywine' 是
-        1970s–80s Simpson Nursery 培育的重瓣粉色开花海棠，果实较大（约 1" ）但偏
-        苦/单宁高，无亚洲渊源。名字与著名的 Brandywine 番茄无关
+        Crabapples (海棠) are a classic spring symbol in Chinese garden culture,
+         'Brandywine' is a
+        double-pink flowering crab bred by Simpson Nursery in the 1970s–80s,
+        with large-ish fruit (~1") that is bitter / high in tannin, and no
+        Asian pedigree — its name is unrelated to the famous Brandywine tomato
       </td>
     </tr>
     <tr>
