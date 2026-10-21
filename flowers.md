@@ -497,12 +497,12 @@ start (December → September)** for easy year-round reference.
       <td>
         National flower of Iran; Saudi Taif rose culture (rose-water
         distillation and related practices) registered on UNESCO's
-        intangible cultural heritage list in December 2024; the base of
-        faith and food for India's gulab (rose water / rose jam) — the
-        base of desserts like gulab jamun and of religious practice; the
+        intangible cultural heritage list in December 2024; in India the
+        base of gulab (rose water / rose jam) — desserts like gulab
+        jamun, and a scent woven through religious practice; the
         reference standard behind China's edible-rose traditions: rose
-        cake (玫瑰饼), rose mooncake (玫瑰月饼), rose dew
-        wine (玫瑰露酒)
+        cake (玫瑰饼), rose mooncake (玫瑰月饼), rose dew wine
+        (玫瑰露酒)
       </td>
     </tr>
     <tr>
