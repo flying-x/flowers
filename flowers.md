@@ -718,6 +718,7 @@ variables and GitHub strips every CSS hook, so a per-image literal is
 the only way to keep one uniform size. The PDF ignores the attribute
 entirely: render_pdf.py's print CSS forces
 img{width:150px!important; height:auto!important}.
+-->
 
 
 ______________________________________________________________________
