@@ -427,7 +427,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Cleveland Sage （ Salvia clevelandii ）
+        Cleveland Sage (Salvia clevelandii)
         <br>
         <img src="assets/flowers/cleveland-sage.jpg" alt="Cleveland Sage" />
       </td>
@@ -435,17 +435,25 @@ start (December → September)** for easy year-round reference.
         克利夫兰鼠尾草
       </td>
       <td>
-        极好种：加州原生，全日照，旱到不用管
+        Extremely easy to grow: a Southern California native (chaparral
+        and coastal sage scrub); full sun, good drainage, so drought-
+        tolerant that it survives on rainfall alone once established
       </td>
       <td>
-        ★★★★ 风一过整丛出香，揉叶香气很冲
+        ★★★★ One of the most intensely fragrant of all salvias: a passing
+        breeze sets the whole clump perfuming the air, and rubbing the
+        leaves releases a sharp, strong sage scent
       </td>
       <td>
-        5–9 月（湾区含秋末返花）
+        May–Sep (in the Bay Area this includes a late-fall rebloom; a Bay
+        Area gardener reports Cleveland sage blooming from May through Nov)
       </td>
       <td>
-        加州原生，无亚洲背景；可视为西方版" 芳香鼠尾草" ，功能位同亚洲的藿香/紫
-        苏
+        Native to California, with no known Asian cultural background; it
+        can be viewed as the Western version of the "fragrant salvias" (芳香
+        鼠尾草) — its kitchen-garden role is the same as the one 藿香
+        (huòxiāng, wrinkled giant hyssop, <em>Agastache rugosa</em>) and 紫苏
+        (perilla, shiso in Japan) fill in the East Asian tradition
       </td>
     </tr>
     <tr>
