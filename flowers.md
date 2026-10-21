@@ -12,6 +12,17 @@ start (December → September)** for easy year-round reference.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally
   reduced on foggy days).
 
+<!--
+Column widths are declared once, on the header row only: in an
+auto-layout table the browser takes each column's width from the first
+row, and the percentages sum to 100%, so there is nothing left for
+auto-layout to redistribute. GitHub strips <style> blocks, style
+attributes and <colgroup> from markdown, so width attributes are the
+only way to size this table. To change a column proportion, edit the
+six <th> tags and nothing else. The width/height on every <img> keeps
+the 480-800px photos from overflowing the page frame. The PDF pipeline
+(render_pdf.py) overrides all of this with its own print CSS.
+-->
 <table width="100%">
   <thead>
     <tr>
