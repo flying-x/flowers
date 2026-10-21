@@ -19,9 +19,8 @@ row, and the percentages sum to 100%, so there is nothing left for
 auto-layout to redistribute. GitHub strips <style> blocks, style
 attributes and <colgroup> from markdown, so width attributes are the
 only way to size this table. To change a column proportion, edit the
-six <th> tags and nothing else. The width/height on every <img> keeps
-the 480-800px photos from overflowing the page frame. The PDF pipeline
-(render_pdf.py) overrides all of this with its own print CSS.
+six <th> tags and nothing else. The PDF pipeline (render_pdf.py)
+overrides all of this with its own print CSS.
 -->
 <table width="100%">
   <thead>
@@ -40,7 +39,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Wintersweet (Chimonanthus praecox)
         <br>
         <img src="assets/flowers/wintersweet.jpg"
-             alt="Wintersweet" width="150" height="112" />
+             alt="Wintersweet" width="150" />
       </td>
       <td>
         蜡梅
@@ -71,7 +70,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Wallflower (Cheiranthus cheiri, now Erysimum × cheiri)
         <br>
         <img src="assets/flowers/wallflower.jpg"
-             alt="Wallflower" width="150" height="112" />
+             alt="Wallflower" width="150" />
       </td>
       <td>
         桂竹香[2]
@@ -100,7 +99,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         White Champaca (Magnolia × alba)
         <br>
         <img src="assets/flowers/white-champaca.jpg"
-             alt="White Champaca" width="150" height="112" />
+             alt="White Champaca" width="150" />
       </td>
       <td>
         白兰
@@ -134,7 +133,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Banana Shrub (Michelia figo, syn. Magnolia figo)
         <br>
         <img src="assets/flowers/banana-shrub.jpg"
-             alt="Banana Shrub" width="150" height="112" />
+             alt="Banana Shrub" width="150" />
       </td>
       <td>
         含笑
@@ -161,7 +160,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Winter Daphne (Daphne odora)
         <br>
         <img src="assets/flowers/winter-daphne.jpg"
-             alt="Winter Daphne" width="150" height="89" />
+             alt="Winter Daphne" width="150" />
       </td>
       <td>
         瑞香
@@ -189,7 +188,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Paperwhite Narcissus (Narcissus papyraceus / tazetta group)
         <br>
         <img src="assets/flowers/paperwhite.jpg"
-             alt="Paperwhite Narcissus" width="150" height="113" />
+             alt="Paperwhite Narcissus" width="150" />
       </td>
       <td>
         洋水仙（纸白型）[3]
@@ -219,7 +218,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Hyacinth (Hyacinthus orientalis)
         <br>
         <img src="assets/flowers/hyacinth.jpg"
-             alt="Hyacinth" width="150" height="100" />
+             alt="Hyacinth" width="150" />
       </td>
       <td>
         风信子
@@ -252,7 +251,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         'Brandywine' Crabapple (Malus 'Branzam' / Brandywine®)
         <br>
         <img src="assets/flowers/brandywine.jpg"
-             alt="'Brandywine' Crabapple" width="150" height="112" />
+             alt="'Brandywine' Crabapple" width="150" />
       </td>
       <td>
         海棠（'Brandywine'）[4]
@@ -281,7 +280,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Mexican Orange Blossom (Choisya ternata)
         <br>
         <img src="assets/flowers/mexican-orange.jpg"
-             alt="Mexican Orange Blossom" width="150" height="100" />
+             alt="Mexican Orange Blossom" width="150" />
       </td>
       <td>
         三叶橙花
@@ -306,7 +305,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Pink Jasmine (Jasminum polyanthum)
         <br>
         <img src="assets/flowers/pink-jasmine.jpg"
-             alt="Pink Jasmine" width="150" height="112" />
+             alt="Pink Jasmine" width="150" />
       </td>
       <td>
         多花素馨（花市称" 粉茉莉/多花茉莉" ）[5]
@@ -333,7 +332,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Chinese Wisteria (Wisteria sinensis)
         <br>
         <img src="assets/flowers/chinese-wisteria.jpg"
-             alt="Chinese Wisteria" width="150" height="78" />
+             alt="Chinese Wisteria" width="150" />
       </td>
       <td>
         紫藤
@@ -363,7 +362,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Perfumed Currant (Ribes odoratum)
         <br>
         <img src="assets/flowers/perfumed-currant.jpg"
-             alt="Perfumed Currant" width="150" height="112" />
+             alt="Perfumed Currant" width="150" />
       </td>
       <td>
         香醋栗（香水醋栗）
@@ -398,7 +397,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         coast: Syringa reticulata, Japanese tree lilac)
         <br>
         <img src="assets/flowers/lilac.jpg"
-             alt="Lilac, white" width="150" height="125" />
+             alt="Lilac, white" width="150" />
       </td>
       <td>
         白丁香[6]
@@ -430,7 +429,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Gardenia (Gardenia jasminoides)
         <br>
         <img src="assets/flowers/gardenia.jpg"
-             alt="Gardenia" width="150" height="112" />
+             alt="Gardenia" width="150" />
       </td>
       <td>
         栀子花
@@ -464,7 +463,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Cleveland Sage (Salvia clevelandii)
         <br>
         <img src="assets/flowers/cleveland-sage.jpg"
-             alt="Cleveland Sage" width="150" height="100" />
+             alt="Cleveland Sage" width="150" />
       </td>
       <td>
         克利夫兰鼠尾草
@@ -496,7 +495,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         California Mock Orange (Philadelphus lewisii)
         <br>
         <img src="assets/flowers/california-mock-orange.jpg"
-             alt="California Mock Orange" width="150" height="106" />
+             alt="California Mock Orange" width="150" />
       </td>
       <td>
         山梅花（刘易斯山梅花）
@@ -527,7 +526,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Damask Rose (Rosa × damascena)
         <br>
         <img src="assets/flowers/damask-rose.jpg"
-             alt="Damask Rose" width="150" height="100" />
+             alt="Damask Rose" width="150" />
       </td>
       <td>
         大马士革玫瑰（大马士革蔷薇、突厥蔷薇）
@@ -563,7 +562,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         platyphylla)
         <br>
         <img src="assets/flowers/rugosa-rose.jpg"
-             alt="Rugosa Rose" width="150" height="200" />
+             alt="Rugosa Rose" width="150" />
       </td>
       <td>
         突瓣蔷薇/海滨蔷薇（平阴玫瑰系）[8]
@@ -592,7 +591,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Lavender (Lavandula angustifolia, 'Hidcote'/'Sentia'/'Dunvegan')
         <br>
         <img src="assets/flowers/lavender.jpg"
-             alt="Lavender" width="150" height="100" />
+             alt="Lavender" width="150" />
       </td>
       <td>
         薰衣草
@@ -619,7 +618,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Star Jasmine (Trachelospermum jasminoides)
         <br>
         <img src="assets/flowers/star-jasmine.jpg"
-             alt="Star Jasmine" width="150" height="84" />
+             alt="Star Jasmine" width="150" />
       </td>
       <td>
         络石（花市称" 风车茉莉" ，实非茉莉属）
@@ -649,7 +648,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Flowering Tobacco (Nicotiana alata)
         <br>
         <img src="assets/flowers/flowering-tobacco.jpg"
-             alt="Flowering Tobacco" width="150" height="100" />
+             alt="Flowering Tobacco" width="150" />
       </td>
       <td>
         花烟草
@@ -676,7 +675,7 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
         Sweet Osmanthus (Osmanthus fragrans)
         <br>
         <img src="assets/flowers/sweet-osmanthus.jpg"
-             alt="Sweet Osmanthus" width="150" height="100" />
+             alt="Sweet Osmanthus" width="150" />
       </td>
       <td>
         桂花
@@ -707,6 +706,19 @@ the 480-800px photos from overflowing the page frame. The PDF pipeline
     </tr>
   </tbody>
 </table>
+
+<!--
+Each <img> carries width="150" only: the photos ship at 480-800px
+native, and a width attribute scales them down to the name column
+without changing aspect ratio — the browser derives the height from
+the image's own ratio (height:auto, with GitHub adding a
+max-width:100% cap), so no photo is stretched or squashed, only
+resized. The repeated 150 cannot be factored out: HTML has no
+variables and GitHub strips every CSS hook, so a per-image literal is
+the only way to keep one uniform size. The PDF ignores the attribute
+entirely: render_pdf.py's print CSS forces
+img{width:150px!important; height:auto!important}.
+
 
 ______________________________________________________________________
 
