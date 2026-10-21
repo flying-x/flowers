@@ -521,7 +521,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Lavender （ Lavandula angustifolia ，'Hidcote'/'Sentia'/'Dunvegan'）
+        Lavender (Lavandula angustifolia, 'Hidcote'/'Sentia'/'Dunvegan')
         <br>
         <img src="assets/flowers/lavender.jpg" alt="Lavender" />
       </td>
@@ -529,17 +529,20 @@ start (December → September)** for easy year-round reference.
         薰衣草
       </td>
       <td>
-        好种：真薰衣草完全适应湾区；全日照+排水极好的干地，成型后断水；雾区偏凉
-        没问题，忌积水
+        Easy to grow: true lavender is fully at home in the Bay Area; full
+        sun + excellently drained dry soil, cut off watering once
+        established; the cool fog belt is fine, but avoid waterlogging
       </td>
       <td>
-        ★★★★★ 全株四季常香，花季最烈
+        ★★★★★ The whole plant is fragrant in all four seasons, most intense
+        during the bloom
       </td>
       <td>
-        6–8 月（品种错开）
+        Jun-Aug (cultivars staggered)
       </td>
       <td>
-        西方浪漫/普罗旺斯符号，亚洲无传统背景；随切花与香薰进入现代生活
+        A symbol of Western romance / Provence, with no traditional role in
+        Asia; it entered modern life through cut flowers and aromatherapy
       </td>
     </tr>
     <tr>
