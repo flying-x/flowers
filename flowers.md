@@ -424,7 +424,7 @@ start (December → September)** for easy year-round reference.
         May–Sep (peaks late summer in the Bay Area)
       </td>
       <td>
-        One of the "Four Flower Elegances" (花中四雅); its fruit is the
+        Its fruit is the
         traditional natural yellow dye (栀子黄, gardenia yellow) and a
         Chinese medicine (栀子, shanzhizi); in pop culture 《栀子花开》
         ("Gardenia Blooms") = the symbol of youth / summer; in Japan
