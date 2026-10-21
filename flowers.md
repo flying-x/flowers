@@ -615,7 +615,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Flowering Tobacco （ Nicotiana alata ）
+        Flowering Tobacco (Nicotiana alata)
         <br>
         <img src="assets/flowers/flowering-tobacco.jpg" alt="Flowering Tobacco" />
       </td>
@@ -623,16 +623,20 @@ start (December → September)** for easy year-round reference.
         花烟草
       </td>
       <td>
-        极好种：夏播一年生，常自播成苗；喜热喜阳耐旱；全表唯一" 夜间香" 主力
+        Easy to grow: a summer-sown annual that often self-seeds into
+        next year's plants; loves heat and sun, drought-tolerant; the
+        only "night-scent" workhorse in the whole table
       </td>
       <td>
-        ★★★★★ 日落后开到浓烈，夏季花园的嗅觉天花板
+        ★★★★★ Opens after sunset at full blast — the ceiling of a summer
+        garden's scent
       </td>
       <td>
-        7 月–霜降（香味集中在夜）
+        Jul–first frost (scent concentrated at night)
       </td>
       <td>
-        新世界植物（烟草属北美/南美原产），亚洲无传统
+        A New World plant (the genus Nicotiana is native to North and
+        South America), no Asian tradition
       </td>
     </tr>
     <tr>
