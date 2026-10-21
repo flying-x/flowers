@@ -12,42 +12,43 @@ start (December → September)** for easy year-round reference.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally
   reduced on foggy days).
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>English name</th>
-      <th>Chinese name</th>
-      <th>Berkeley cultivation notes</th>
-      <th>Scent notes</th>
-      <th>Bloom period (scent months)</th>
-      <th>Asian cultural notes</th>
+      <th width="17%">English name</th>
+      <th width="9%">Chinese name</th>
+      <th width="21%">Berkeley cultivation notes</th>
+      <th width="15%">Scent notes</th>
+      <th width="11%">Bloom period (scent months)</th>
+      <th width="27%">Asian cultural notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td width="17%">
         Wintersweet (Chimonanthus praecox)
         <br>
-        <img src="assets/flowers/wintersweet.jpg" alt="Wintersweet" />
+        <img src="assets/flowers/wintersweet.jpg"
+             alt="Wintersweet" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         蜡梅
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: full sun to partial shade, excellent drainage (does not
         tolerate standing water around the roots), drought-tolerant once
         established; yellow-flowered types are far more fragrant than
         white-flowered ones[1]
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Cold fragrance that intensifies as temperatures drop; the yellow
         types ('Aureus'/'苏雨仙' lineage) are intense, white-flowered types are
         very faint
       </td>
-      <td>
+      <td width="11%">
         Dec–Feb
       </td>
-      <td>
+      <td width="27%">
         The twelfth-month (腊月) flower deity of the traditional "Flower
         Calendar" (花历); long prized in Chinese literati culture for its "cold
         fragrance" (冷香) as a symbol of lofty, unworldly character; sometimes
@@ -55,27 +56,28 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Wallflower (Cheiranthus cheiri, now Erysimum × cheiri)
         <br>
-        <img src="assets/flowers/wallflower.jpg" alt="Wallflower" />
+        <img src="assets/flowers/wallflower.jpg"
+             alt="Wallflower" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         桂竹香[2]
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: cool-season crop, grown as a biennial (short-lived
         perennial); full sun, does not tolerate standing water (well-drained
         soil); frequent deadheading prolongs the bloom
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Spicy-sweet Brassicaceae scent - the old-fashioned "wall scent"
         (hence the English name wallflower)
       </td>
-      <td>
+      <td width="11%">
         Dec–Mar
       </td>
-      <td>
+      <td width="27%">
         In the Chinese tradition, in fine gardens by the Tang dynasty (recorded
         in ancient materia medica (《本草》) texts and in Tang poetry) - on that
         lineage, one of the oldest winter-fragrance flowers in the Chinese
@@ -83,29 +85,30 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         White Champaca (Magnolia × alba)
         <br>
-        <img src="assets/flowers/white-champaca.jpg" alt="White Champaca" />
+        <img src="assets/flowers/white-champaca.jpg"
+             alt="White Champaca" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         白兰
       </td>
-      <td>
+      <td width="21%">
         Tender subtropical hybrid: cold-sensitive and prefers warmer, more
         protected microclimates. In the cooler, foggier central Berkeley flats,
         in-ground flowering is unreliable and pot + winter protection is safer;
         established trees do flower well in warmer Bay Area spots (e.g. Berkeley
         Hills, SF Botanical Garden, Stanford)
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The reference scent of the street flower vendors and yulan tea;
         most intense in the cool morning
       </td>
-      <td>
+      <td width="11%">
         Dec–Mar (Bay Area); multiple flushes in warm regions
       </td>
-      <td>
+      <td width="27%">
         Core of Lingnan (South China) and old-Shanghai folk custom: flowers
         pinned in the hair, street flower carriers (花婆, "flower aunties"),
         yulan (白兰) tea; the Cantonese name "pak lan" is the Cantonese reading
@@ -116,97 +119,101 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Banana Shrub (Michelia figo, syn. Magnolia figo)
         <br>
-        <img src="assets/flowers/banana-shrub.jpg" alt="Banana Shrub" />
+        <img src="assets/flowers/banana-shrub.jpg"
+             alt="Banana Shrub" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         含笑
       </td>
-      <td>
+      <td width="21%">
         Extremely easy: cold- and drought-tolerant, full sun to partial shade,
         almost maintenance-free
       </td>
-      <td>
+      <td width="15%">
         ★★★–★★★★ Banana-sweet fragrance, strongest in the morning and when cool
       </td>
-      <td>
+      <td width="11%">
         Primarily spring (Apr–Jun), with possible extension into summer/fall in
         mild Bay Area climates
       </td>
-      <td>
+      <td width="27%">
         "Manjushri’s smile" from the Vimalakirti Sutra; the idiom "smile in the
         netherworld" derives from the flower; common subject in literati
         painting
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Winter Daphne (Daphne odora)
         <br>
-        <img src="assets/flowers/winter-daphne.jpg" alt="Winter Daphne" />
+        <img src="assets/flowers/winter-daphne.jpg"
+             alt="Winter Daphne" width="150" height="89" />
       </td>
-      <td>
+      <td width="9%">
         瑞香
       </td>
-      <td>
+      <td width="21%">
         Very easy to grow (the least demanding of the <em>Daphne</em> genus):
         drainage is a matter of life and death (does not tolerate standing water
         around the roots), summer-dry, full sun to partial shade; performs even
         better in the Bay Area than in the East
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ One of the most intense woody-plant scents of winter and spring
       </td>
-      <td>
+      <td width="11%">
         Jan–Mar (earlier in the Bay Area than in the East)
       </td>
-      <td>
+      <td width="27%">
         the name 瑞香 means "fragrance of auspicious omen" (花中祥瑞 "auspicious
         omen among flowers"); <em>Daphne</em> is planted in the 紫竹林 (Purple
         Bamboo Grove) on Mt. Putuo, a Guanyin/Avalokiteshvara pilgrimage site
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Paperwhite Narcissus (Narcissus papyraceus / tazetta group)
         <br>
-        <img src="assets/flowers/paperwhite.jpg" alt="Paperwhite Narcissus" />
+        <img src="assets/flowers/paperwhite.jpg"
+             alt="Paperwhite Narcissus" width="150" height="113" />
       </td>
-      <td>
+      <td width="9%">
         洋水仙（纸白型）[3]
       </td>
-      <td>
+      <td width="21%">
         Primarily an indoor forcing bulb: set on pebbles/rocks with water just
         touching the base, blooms in 4–6 weeks; discard after bloom (standard
         practice). Can also be planted outdoors in fall in mild Bay Area gardens
         where it may naturalize, but the classic use is the temporary indoor
         display
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Strong fragrance typical of the tazetta group (most other narcissus
         are scentless or weakly scented)
       </td>
-      <td>
+      <td width="11%">
         Feb–Mar
       </td>
-      <td>
+      <td width="27%">
         No traditional Asian cultural background for this Western tazetta form;
         the classic Chinese New Year narcissus is N. tazetta var. chinensis — do
         not confuse the two
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Hyacinth (Hyacinthus orientalis)
         <br>
-        <img src="assets/flowers/hyacinth.jpg" alt="Hyacinth" />
+        <img src="assets/flowers/hyacinth.jpg"
+             alt="Hyacinth" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         风信子
       </td>
-      <td>
+      <td width="21%">
         Primarily an indoor forcing bulb (pre-chilled or chilled, then bloomed
         in soil or water; often discarded after). It also grows well in
         Berkeley: plant outdoors in fall (15 cm deep, good drainage) — the
@@ -216,40 +223,41 @@ start (December → September)** for easy year-round reference.
         Horticultural Nursery) stock it as a standard spring bulb. The
         classic use, though, is temporary indoor forcing
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The strongest of the early-spring scents — a single vase
         fills a room
       </td>
-      <td>
+      <td width="11%">
         Feb–Apr (indoor forcing); Mar–Apr (outdoors)
       </td>
-      <td>
+      <td width="27%">
         A Middle Eastern / Mediterranean plant with no traditional place
         in Asian flower culture; it entered modern Asian life on the
         strength of its scent alone (cut flowers, indoor fragrance)
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         'Brandywine' Crabapple (Malus 'Branzam' / Brandywine®)
         <br>
-        <img src="assets/flowers/brandywine.jpg" alt="'Brandywine' Crabapple" />
+        <img src="assets/flowers/brandywine.jpg"
+             alt="'Brandywine' Crabapple" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         海棠（'Brandywine'）[4]
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: small tree, full sun, water while young, drought-tolerant
         once established; watch for scab (moderate resistance) and rust (poorer
         resistance)
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Double rose-pink flowers, strongly scented; fruit rather bitter
       </td>
-      <td>
+      <td width="11%">
         Mar–Apr (flowers)
       </td>
-      <td>
+      <td width="27%">
         Crabapples (海棠) are a classic spring symbol in Chinese garden culture,
          'Brandywine' is a
         double-pink flowering crab bred by Simpson Nursery in the 1970s–80s,
@@ -258,94 +266,98 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Mexican Orange Blossom (Choisya ternata)
         <br>
-        <img src="assets/flowers/mexican-orange.jpg" alt="Mexican Orange Blossom" />
+        <img src="assets/flowers/mexican-orange.jpg"
+             alt="Mexican Orange Blossom" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         三叶橙花
       </td>
-      <td>
+      <td width="21%">
         Extremely easy: native to Mexico, zero maintenance,
         drought-tolerant, full sun to part shade
       </td>
-      <td>
+      <td width="15%">
         ★★★ Orange-blossom (neroli-type) scent, moderate
       </td>
-      <td>
+      <td width="11%">
         Mar–Apr (occasional late-summer / fall rebloom)
       </td>
-      <td>
+      <td width="27%">
         A North American native with no Asian cultural background; it was
         adopted into Asian gardens on the strength of its orange-blossom scent
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Pink Jasmine (Jasminum polyanthum)
         <br>
-        <img src="assets/flowers/pink-jasmine.jpg" alt="Pink Jasmine" />
+        <img src="assets/flowers/pink-jasmine.jpg"
+             alt="Pink Jasmine" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         多花素馨（花市称" 粉茉莉/多花茉莉" ）[5]
       </td>
-      <td>
+      <td width="21%">
         Extremely easy: vigorous evergreen climber, loves Mediterranean
         climate, full sun, drought-tolerant once established; needs a support
         to climb
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The most fragrant of the "jasmines"; pink buds open white,
         especially intense on summer nights
       </td>
-      <td>
+      <td width="11%">
         Mar–Oct (heaviest in spring)
       </td>
-      <td>
+      <td width="27%">
         Native to Southwest China (Yunnan / Guizhou), a close relative of the
         jasmines used for jasmine tea; no deep cultural lore of its own
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Chinese Wisteria (Wisteria sinensis)
         <br>
-        <img src="assets/flowers/chinese-wisteria.jpg" alt="Chinese Wisteria" />
+        <img src="assets/flowers/chinese-wisteria.jpg"
+             alt="Chinese Wisteria" width="150" height="78" />
       </td>
-      <td>
+      <td width="9%">
         紫藤
       </td>
-      <td>
+      <td width="21%">
         Growable: Japanese wisteria (W. floribunda) is more fragrant but does
         poorly in the fog belt, so this species is the compromise; the plant
         gets huge and needs steel-frame support; water while young,
         drought-tolerant once established; escaped / naturalized plants are
         reported along the coast — keep it off property lines
       </td>
-      <td>
+      <td width="15%">
         ★★★ Mild sweet scent, far weaker than Japanese wisteria
         (W. floribunda)
       </td>
-      <td>
+      <td width="11%">
         Apr–May (flowers before or with the leaves)
       </td>
-      <td>
+      <td width="27%">
         A staple of poetry, calligraphy and painting since the Tang / Song
         eras; Japan has wisteria festivals (藤花祭, fuji); Korea regards
         wisteria as a symbol of longevity / a happy marriage
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Perfumed Currant (Ribes odoratum)
         <br>
-        <img src="assets/flowers/perfumed-currant.jpg" alt="Perfumed Currant" />
+        <img src="assets/flowers/perfumed-currant.jpg"
+             alt="Perfumed Currant" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         香醋栗（香水醋栗）
       </td>
-      <td>
+      <td width="21%">
         Growable: native to central North America (Minnesota to Texas, not the
         Pacific coast), cool-climate lover, full sun to part shade,
         drought-tolerant once established.
@@ -357,43 +369,44 @@ start (December → September)** for easy year-round reference.
         California-native <em>R. aureum</em> (var. <em>gracillimum</em>) is the
         form that thrives here if scent can be traded for reliability.
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ Jasmine + orange-blossom / clove-type floral scent, one of the
         most fragrant berry shrubs
       </td>
-      <td>
+      <td width="11%">
         May–Jun
       </td>
-      <td>
+      <td width="27%">
         A central North American native with no Asian cultural background; a
         "newcomer" to Asian gardens
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Lilac, white (Syringa vulgaris white cultivars; more reliable on the
         coast: Syringa reticulata, Japanese tree lilac)
         <br>
-        <img src="assets/flowers/lilac.jpg" alt="Lilac, white" />
+        <img src="assets/flowers/lilac.jpg"
+             alt="Lilac, white" width="150" height="125" />
       </td>
-      <td>
+      <td width="9%">
         白丁香[6]
       </td>
-      <td>
+      <td width="21%">
         Moderate: S. vulgaris survives in the Bay Area but is a marginal
         fit (it prefers the colder, wetter Eastern climate) — full sun +
         good drainage + a little summer water; the low-maintenance pick is
         S. reticulata, which shrugs off drought and fog
       </td>
-      <td>
+      <td width="15%">
         ★★★★ White cultivars are usually harder-hitting than the purple
         ones (a common grower observation — scent varies by cultivar, so
         check the specific variety)
       </td>
-      <td>
+      <td width="11%">
         May–Jun
       </td>
-      <td>
+      <td width="27%">
         The "lilac knot" (丁香结) — unopened buds clustered like a knot:
         Li Shangyin's " 芭蕉不展丁香结" ("the banana leaf stays furled, the
         lilac knots unloosed") is the classic image of pent-up sorrow in
@@ -402,28 +415,29 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Gardenia (Gardenia jasminoides)
         <br>
-        <img src="assets/flowers/gardenia.jpg" alt="Gardenia" />
+        <img src="assets/flowers/gardenia.jpg"
+             alt="Gardenia" width="150" height="112" />
       </td>
-      <td>
+      <td width="9%">
         栀子花
       </td>
-      <td>
+      <td width="21%">
         The hardest on the easy-to-grow list: acidic soil (pH&lt;6), consistent
         moisture, iron supplements, frost protection; the fog belt actually
         lends a little humidity; the most reliable plan is a pot + moving
         inside for winter
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ White flowers everywhere, a house full of scent; even a single
         stem fills a room
       </td>
-      <td>
+      <td width="11%">
         May–Sep (peaks late summer in the Bay Area)
       </td>
-      <td>
+      <td width="27%">
         <ul>
         <li>Fruit = the traditional natural yellow dye (栀子黄, gardenia
         yellow) and a Chinese medicine (栀子, shanzhizi)</li>
@@ -435,29 +449,30 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Cleveland Sage (Salvia clevelandii)
         <br>
-        <img src="assets/flowers/cleveland-sage.jpg" alt="Cleveland Sage" />
+        <img src="assets/flowers/cleveland-sage.jpg"
+             alt="Cleveland Sage" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         克利夫兰鼠尾草
       </td>
-      <td>
+      <td width="21%">
         Extremely easy to grow: a Southern California native (chaparral
         and coastal sage scrub); full sun, good drainage, so drought-
         tolerant that it survives on rainfall alone once established
       </td>
-      <td>
+      <td width="15%">
         ★★★★ One of the most intensely fragrant of all salvias: a passing
         breeze sets the whole clump perfuming the air, and rubbing the
         leaves releases a sharp, strong sage scent
       </td>
-      <td>
+      <td width="11%">
         May–Sep (in the Bay Area this includes a late-fall rebloom; a Bay
         Area gardener reports Cleveland sage blooming from May through Nov)
       </td>
-      <td>
+      <td width="27%">
         Native to California, with no known Asian cultural background; it
         can be viewed as the Western version of the "fragrant salvias" (芳香
         鼠尾草) — its kitchen-garden role is the same as the one 藿香
@@ -466,28 +481,29 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         California Mock Orange (Philadelphus lewisii)
         <br>
-        <img src="assets/flowers/california-mock-orange.jpg" alt="California Mock Orange" />
+        <img src="assets/flowers/california-mock-orange.jpg"
+             alt="California Mock Orange" width="150" height="106" />
       </td>
-      <td>
+      <td width="9%">
         山梅花（刘易斯山梅花）
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: native to the Pacific Northwest (range extends
         into the Sierra Nevada of central California); cold-hardy
         (USDA zone 4) and vigorous; full sun; moderate summer water
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Heavy "orange blossom/mock orange" scent during bloom;
         sweet, heady, citrus-blossom-like, some sources note a hint
         of pineapple
       </td>
-      <td>
+      <td width="11%">
         May–Jun (late spring to early summer)
       </td>
-      <td>
+      <td width="27%">
         No Asian cultural background: the specific name (lewisii)
         commemorates Meriwether Lewis of the Lewis and Clark
         expedition; "山梅花" (mountain plum-blossom) is the
@@ -496,29 +512,30 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Damask Rose (Rosa × damascena)
         <br>
-        <img src="assets/flowers/damask-rose.jpg" alt="Damask Rose" />
+        <img src="assets/flowers/damask-rose.jpg"
+             alt="Damask Rose" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         大马士革玫瑰（大马士革蔷薇、突厥蔷薇）
       </td>
-      <td>
+      <td width="21%">
         Moderate difficulty: in the fog belt, pick <strong>the sunniest,
         driest, best-drained</strong> spot; in cool, wet springs and autumns,
         watch for downy mildew and powdery mildew; fog clearly weakens scent
         production [7]
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The "rose" scent standard: rose otto (attar) and rose dew (rose
         water) are both distilled from it; cool summers under fog cut the
         output
       </td>
-      <td>
+      <td width="11%">
         May–Jun (single season)
       </td>
-      <td>
+      <td width="27%">
         National flower of Iran; Saudi Taif rose culture (rose-water
         distillation and related practices) registered on UNESCO's
         intangible cultural heritage list in December 2024; in India the
@@ -530,82 +547,85 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Rugosa Rose (Rosa rugosa, incl. Pingyin rose R. rugosa var.
         platyphylla)
         <br>
-        <img src="assets/flowers/rugosa-rose.jpg" alt="Rugosa Rose" />
+        <img src="assets/flowers/rugosa-rose.jpg"
+             alt="Rugosa Rose" width="150" height="200" />
       </td>
-      <td>
+      <td width="9%">
         突瓣蔷薇/海滨蔷薇（平阴玫瑰系）[8]
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: an East Asian coastal sand-dune rose, naturalized on
         California coasts; shrugs off drought, salt and wind, no
         irrigation once established; spreads by suckering runners, so
         keep the boundaries in check
       </td>
-      <td>
+      <td width="15%">
         ★★★ Moderate (the wide-leaf Pingyin type is more fragrant and more
         on the culinary side); far weaker than Damask
       </td>
-      <td>
+      <td width="11%">
         Jun–Aug (can rebloom)
       </td>
-      <td>
+      <td width="27%">
         Pingyin rose (Shandong) is China's classic edible rose: 玫瑰酱
         (rose jam) / 玫瑰饼 (rose cakes) / 玫瑰露 (rose dew); the rugosa
         lineage is the main bloodline of China's edible roses
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Lavender (Lavandula angustifolia, 'Hidcote'/'Sentia'/'Dunvegan')
         <br>
-        <img src="assets/flowers/lavender.jpg" alt="Lavender" />
+        <img src="assets/flowers/lavender.jpg"
+             alt="Lavender" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         薰衣草
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: true lavender is fully at home in the Bay Area; full
         sun + excellently drained dry soil, cut off watering once
         established; the cool fog belt is fine, but avoid waterlogging
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The whole plant is fragrant in all four seasons, most intense
         during the bloom
       </td>
-      <td>
+      <td width="11%">
         Jun-Aug (cultivars staggered)
       </td>
-      <td>
+      <td width="27%">
         A symbol of Western romance / Provence, with no traditional role in
         Asia; it entered modern life through cut flowers and aromatherapy
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Star Jasmine (Trachelospermum jasminoides)
         <br>
-        <img src="assets/flowers/star-jasmine.jpg" alt="Star Jasmine" />
+        <img src="assets/flowers/star-jasmine.jpg"
+             alt="Star Jasmine" width="150" height="84" />
       </td>
-      <td>
+      <td width="9%">
         络石（花市称" 风车茉莉" ，实非茉莉属）
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: an evergreen twining vine that needs a support
         (trellis, fence, or arbor); drought-tolerant once established;
         full sun to part shade
       </td>
-      <td>
+      <td width="15%">
         ★★★★ Heavy, sweet, jasmine-like scent, strongest on warm
         evenings; may re-bloom and re-scent in mild Bay Area winters
       </td>
-      <td>
+      <td width="11%">
         Jul–Sep (occasional winter re-bloom in the Bay Area)
       </td>
-      <td>
+      <td width="27%">
         Trachelospermum vine is a traditional Chinese medicine (络石藤,
         luoshiteng, used to "dispel wind, unblock collaterals" (祛风通络));
         the Chinese Pharmacopoeia in fact cites T. jasminoides as the
@@ -614,55 +634,57 @@ start (December → September)** for easy year-round reference.
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Flowering Tobacco (Nicotiana alata)
         <br>
-        <img src="assets/flowers/flowering-tobacco.jpg" alt="Flowering Tobacco" />
+        <img src="assets/flowers/flowering-tobacco.jpg"
+             alt="Flowering Tobacco" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         花烟草
       </td>
-      <td>
+      <td width="21%">
         Easy to grow: a summer-sown annual that often self-seeds into
         next year's plants; loves heat and sun, drought-tolerant; the
         only "night-scent" workhorse in the whole table
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ Opens after sunset at full blast — the ceiling of a summer
         garden's scent
       </td>
-      <td>
+      <td width="11%">
         Jul–first frost (scent concentrated at night)
       </td>
-      <td>
+      <td width="27%">
         A New World plant (the genus Nicotiana is native to North and
         South America), no Asian tradition
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="17%">
         Sweet Osmanthus (Osmanthus fragrans)
         <br>
-        <img src="assets/flowers/sweet-osmanthus.jpg" alt="Sweet Osmanthus" />
+        <img src="assets/flowers/sweet-osmanthus.jpg"
+             alt="Sweet Osmanthus" width="150" height="100" />
       </td>
-      <td>
+      <td width="9%">
         桂花
       </td>
-      <td>
+      <td width="21%">
         Grows well but at a discount: hardy and thrives in the Bay Area, but the
         heavy fog and not-hot-enough summers mean fewer flowers and a blunted
         scent; plant in the sunniest, warmest corner possible; repeat-flowering
         types (佛顶珠 Fodingzhu / 四季桂 Sijigui) bloom more reliably here than
         金桂 Jingui[7]
       </td>
-      <td>
+      <td width="15%">
         ★★★★★ The benchmark of autumn scent (still the strongest autumn
         fragrance in the fog belt, discount applied)
       </td>
-      <td>
+      <td width="11%">
         Sept–Oct (Bay Area; Sept–Nov farther east or inland)
       </td>
-      <td>
+      <td width="27%">
         #1 in the table for cultural weight: the flower most tied to the
         Mid-Autumn Festival (桂花月饼 osmanthus mooncakes); 折桂 "picking
         osmanthus in the moon palace" = the millennial metaphor for passing the
