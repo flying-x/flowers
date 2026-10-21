@@ -544,7 +544,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Star Jasmine （ Trachelospermum jasminoides ）
+        Star Jasmine (Trachelospermum jasminoides)
         <br>
         <img src="assets/flowers/star-jasmine.jpg" alt="Star Jasmine" />
       </td>
@@ -552,17 +552,23 @@ start (December → September)** for easy year-round reference.
         络石（花市称" 风车茉莉" ，实非茉莉属）
       </td>
       <td>
-        极好种：常绿藤，需要攀爬物，成型后耐旱，全日照至半阴
+        Easy to grow: an evergreen twining vine that needs a support
+        (trellis, fence, or arbor); drought-tolerant once established;
+        full sun to part shade
       </td>
       <td>
-        ★★★★ 茉莉型浓香，傍晚最明显；湾区冬季可返花返香
+        ★★★★ Heavy, sweet, jasmine-like scent, strongest on warm
+        evenings; may re-bloom and re-scent in mild Bay Area winters
       </td>
       <td>
-        7–9 月（湾区偶有冬季返花）
+        Jul–Sep (occasional winter re-bloom in the Bay Area)
       </td>
       <td>
-        络石藤是中国传统中药（祛风通络）；" 风车茉莉" 是纯商业名，本种无花文化典
-        故
+        Trachelospermum vine is a traditional Chinese medicine (络石藤,
+        luoshiteng, used to "dispel wind, unblock collaterals" (祛风通络));
+        the Chinese Pharmacopoeia in fact cites T. jasminoides as the
+        source of luoshiteng. " 风车茉莉" (pinwheel jasmine) is a purely
+        commercial nursery name; the species has no flower-culture lore
       </td>
     </tr>
     <tr>
