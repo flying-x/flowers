@@ -531,7 +531,8 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Rugosa Rose （ Rosa rugosa ，含平阴玫瑰 R. rugosa var. platyphylla ）
+        Rugosa Rose (Rosa rugosa, incl. Pingyin rose R. rugosa var.
+        platyphylla)
         <br>
         <img src="assets/flowers/rugosa-rose.jpg" alt="Rugosa Rose" />
       </td>
@@ -539,18 +540,22 @@ start (December → September)** for easy year-round reference.
         突瓣蔷薇/海滨蔷薇（平阴玫瑰系）[8]
       </td>
       <td>
-        极好种：东亚海岸沙滩玫瑰，在加州海岸已归化；耐旱耐盐耐风，建植后不浇；根
-        茎蔓延，控好边界
+        Easy to grow: an East Asian coastal sand-dune rose, naturalized on
+        California coasts; shrugs off drought, salt and wind, no
+        irrigation once established; spreads by suckering runners, so
+        keep the boundaries in check
       </td>
       <td>
-        ★★★ 中等（平阴宽叶型更香、更偏食用）；远弱于大马士革
+        ★★★ Moderate (the wide-leaf Pingyin type is more fragrant and more
+        on the culinary side); far weaker than Damask
       </td>
       <td>
-        6–8 月（可复花）
+        Jun–Aug (can rebloom)
       </td>
       <td>
-        平阴玫瑰（山东）是中国经典食用玫瑰：玫瑰酱/玫瑰饼/玫瑰露； rugosa 系是中
-        国食用玫瑰的主力血统
+        Pingyin rose (Shandong) is China's classic edible rose: 玫瑰酱
+        (rose jam) / 玫瑰饼 (rose cakes) / 玫瑰露 (rose dew); the rugosa
+        lineage is the main bloodline of China's edible roses
       </td>
     </tr>
     <tr>
