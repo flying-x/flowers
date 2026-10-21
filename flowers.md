@@ -12,15 +12,25 @@ start (December → September)** for easy year-round reference.
 - **Scent rating**: ★–★★★★★ (intensity detectable at arm’s length; generally
   reduced on foggy days).
 
-<table>
+<!--
+Column widths are declared once, on the header row only: in an
+auto-layout table the browser takes each column's width from the first
+row, and the percentages sum to 100%, so there is nothing left for
+auto-layout to redistribute. GitHub strips <style> blocks, style
+attributes and <colgroup> from markdown, so width attributes are the
+only way to size this table. To change a column proportion, edit the
+six <th> tags and nothing else. The PDF pipeline (render_pdf.py)
+overrides all of this with its own print CSS.
+-->
+<table width="100%">
   <thead>
     <tr>
-      <th>English name</th>
-      <th>Chinese name</th>
-      <th>Berkeley cultivation notes</th>
-      <th>Scent notes</th>
-      <th>Bloom period (scent months)</th>
-      <th>Asian cultural notes</th>
+      <th width="17%">English name</th>
+      <th width="9%">Chinese name</th>
+      <th width="21%">Berkeley cultivation notes</th>
+      <th width="15%">Scent notes</th>
+      <th width="11%">Bloom period (scent months)</th>
+      <th width="27%">Asian cultural notes</th>
     </tr>
   </thead>
   <tbody>
@@ -28,7 +38,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Wintersweet (Chimonanthus praecox)
         <br>
-        <img src="assets/flowers/wintersweet.jpg" alt="Wintersweet" />
+        <img src="assets/flowers/wintersweet.jpg"
+             alt="Wintersweet" width="150" />
       </td>
       <td>
         蜡梅
@@ -58,7 +69,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Wallflower (Cheiranthus cheiri, now Erysimum × cheiri)
         <br>
-        <img src="assets/flowers/wallflower.jpg" alt="Wallflower" />
+        <img src="assets/flowers/wallflower.jpg"
+             alt="Wallflower" width="150" />
       </td>
       <td>
         桂竹香[2]
@@ -86,7 +98,8 @@ start (December → September)** for easy year-round reference.
       <td>
         White Champaca (Magnolia × alba)
         <br>
-        <img src="assets/flowers/white-champaca.jpg" alt="White Champaca" />
+        <img src="assets/flowers/white-champaca.jpg"
+             alt="White Champaca" width="150" />
       </td>
       <td>
         白兰
@@ -119,7 +132,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Banana Shrub (Michelia figo, syn. Magnolia figo)
         <br>
-        <img src="assets/flowers/banana-shrub.jpg" alt="Banana Shrub" />
+        <img src="assets/flowers/banana-shrub.jpg"
+             alt="Banana Shrub" width="150" />
       </td>
       <td>
         含笑
@@ -145,7 +159,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Winter Daphne (Daphne odora)
         <br>
-        <img src="assets/flowers/winter-daphne.jpg" alt="Winter Daphne" />
+        <img src="assets/flowers/winter-daphne.jpg"
+             alt="Winter Daphne" width="150" />
       </td>
       <td>
         瑞香
@@ -172,7 +187,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Paperwhite Narcissus (Narcissus papyraceus / tazetta group)
         <br>
-        <img src="assets/flowers/paperwhite.jpg" alt="Paperwhite Narcissus" />
+        <img src="assets/flowers/paperwhite.jpg"
+             alt="Paperwhite Narcissus" width="150" />
       </td>
       <td>
         洋水仙（纸白型）[3]
@@ -201,7 +217,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Hyacinth (Hyacinthus orientalis)
         <br>
-        <img src="assets/flowers/hyacinth.jpg" alt="Hyacinth" />
+        <img src="assets/flowers/hyacinth.jpg"
+             alt="Hyacinth" width="150" />
       </td>
       <td>
         风信子
@@ -233,7 +250,8 @@ start (December → September)** for easy year-round reference.
       <td>
         'Brandywine' Crabapple (Malus 'Branzam' / Brandywine®)
         <br>
-        <img src="assets/flowers/brandywine.jpg" alt="'Brandywine' Crabapple" />
+        <img src="assets/flowers/brandywine.jpg"
+             alt="'Brandywine' Crabapple" width="150" />
       </td>
       <td>
         海棠（'Brandywine'）[4]
@@ -261,7 +279,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Mexican Orange Blossom (Choisya ternata)
         <br>
-        <img src="assets/flowers/mexican-orange.jpg" alt="Mexican Orange Blossom" />
+        <img src="assets/flowers/mexican-orange.jpg"
+             alt="Mexican Orange Blossom" width="150" />
       </td>
       <td>
         三叶橙花
@@ -285,7 +304,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Pink Jasmine (Jasminum polyanthum)
         <br>
-        <img src="assets/flowers/pink-jasmine.jpg" alt="Pink Jasmine" />
+        <img src="assets/flowers/pink-jasmine.jpg"
+             alt="Pink Jasmine" width="150" />
       </td>
       <td>
         多花素馨（花市称" 粉茉莉/多花茉莉" ）[5]
@@ -311,7 +331,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Chinese Wisteria (Wisteria sinensis)
         <br>
-        <img src="assets/flowers/chinese-wisteria.jpg" alt="Chinese Wisteria" />
+        <img src="assets/flowers/chinese-wisteria.jpg"
+             alt="Chinese Wisteria" width="150" />
       </td>
       <td>
         紫藤
@@ -340,7 +361,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Perfumed Currant (Ribes odoratum)
         <br>
-        <img src="assets/flowers/perfumed-currant.jpg" alt="Perfumed Currant" />
+        <img src="assets/flowers/perfumed-currant.jpg"
+             alt="Perfumed Currant" width="150" />
       </td>
       <td>
         香醋栗（香水醋栗）
@@ -374,7 +396,8 @@ start (December → September)** for easy year-round reference.
         Lilac, white (Syringa vulgaris white cultivars; more reliable on the
         coast: Syringa reticulata, Japanese tree lilac)
         <br>
-        <img src="assets/flowers/lilac.jpg" alt="Lilac, white" />
+        <img src="assets/flowers/lilac.jpg"
+             alt="Lilac, white" width="150" />
       </td>
       <td>
         白丁香[6]
@@ -405,7 +428,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Gardenia (Gardenia jasminoides)
         <br>
-        <img src="assets/flowers/gardenia.jpg" alt="Gardenia" />
+        <img src="assets/flowers/gardenia.jpg"
+             alt="Gardenia" width="150" />
       </td>
       <td>
         栀子花
@@ -438,7 +462,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Cleveland Sage (Salvia clevelandii)
         <br>
-        <img src="assets/flowers/cleveland-sage.jpg" alt="Cleveland Sage" />
+        <img src="assets/flowers/cleveland-sage.jpg"
+             alt="Cleveland Sage" width="150" />
       </td>
       <td>
         克利夫兰鼠尾草
@@ -469,7 +494,8 @@ start (December → September)** for easy year-round reference.
       <td>
         California Mock Orange (Philadelphus lewisii)
         <br>
-        <img src="assets/flowers/california-mock-orange.jpg" alt="California Mock Orange" />
+        <img src="assets/flowers/california-mock-orange.jpg"
+             alt="California Mock Orange" width="150" />
       </td>
       <td>
         山梅花（刘易斯山梅花）
@@ -499,7 +525,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Damask Rose (Rosa × damascena)
         <br>
-        <img src="assets/flowers/damask-rose.jpg" alt="Damask Rose" />
+        <img src="assets/flowers/damask-rose.jpg"
+             alt="Damask Rose" width="150" />
       </td>
       <td>
         大马士革玫瑰（大马士革蔷薇、突厥蔷薇）
@@ -534,7 +561,8 @@ start (December → September)** for easy year-round reference.
         Rugosa Rose (Rosa rugosa, incl. Pingyin rose R. rugosa var.
         platyphylla)
         <br>
-        <img src="assets/flowers/rugosa-rose.jpg" alt="Rugosa Rose" />
+        <img src="assets/flowers/rugosa-rose.jpg"
+             alt="Rugosa Rose" width="150" />
       </td>
       <td>
         突瓣蔷薇/海滨蔷薇（平阴玫瑰系）[8]
@@ -562,7 +590,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Lavender (Lavandula angustifolia, 'Hidcote'/'Sentia'/'Dunvegan')
         <br>
-        <img src="assets/flowers/lavender.jpg" alt="Lavender" />
+        <img src="assets/flowers/lavender.jpg"
+             alt="Lavender" width="150" />
       </td>
       <td>
         薰衣草
@@ -588,7 +617,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Star Jasmine (Trachelospermum jasminoides)
         <br>
-        <img src="assets/flowers/star-jasmine.jpg" alt="Star Jasmine" />
+        <img src="assets/flowers/star-jasmine.jpg"
+             alt="Star Jasmine" width="150" />
       </td>
       <td>
         络石（花市称" 风车茉莉" ，实非茉莉属）
@@ -617,7 +647,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Flowering Tobacco (Nicotiana alata)
         <br>
-        <img src="assets/flowers/flowering-tobacco.jpg" alt="Flowering Tobacco" />
+        <img src="assets/flowers/flowering-tobacco.jpg"
+             alt="Flowering Tobacco" width="150" />
       </td>
       <td>
         花烟草
@@ -643,7 +674,8 @@ start (December → September)** for easy year-round reference.
       <td>
         Sweet Osmanthus (Osmanthus fragrans)
         <br>
-        <img src="assets/flowers/sweet-osmanthus.jpg" alt="Sweet Osmanthus" />
+        <img src="assets/flowers/sweet-osmanthus.jpg"
+             alt="Sweet Osmanthus" width="150" />
       </td>
       <td>
         桂花
@@ -674,6 +706,20 @@ start (December → September)** for easy year-round reference.
     </tr>
   </tbody>
 </table>
+
+<!--
+Each <img> carries width="150" only: the photos ship at 480-800px
+native, and a width attribute scales them down to the name column
+without changing aspect ratio — the browser derives the height from
+the image's own ratio (height:auto, with GitHub adding a
+max-width:100% cap), so no photo is stretched or squashed, only
+resized. The repeated 150 cannot be factored out: HTML has no
+variables and GitHub strips every CSS hook, so a per-image literal is
+the only way to keep one uniform size. The PDF ignores the attribute
+entirely: render_pdf.py's print CSS forces
+img{width:150px!important; height:auto!important}.
+-->
+
 
 ______________________________________________________________________
 
