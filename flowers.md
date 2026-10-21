@@ -424,12 +424,14 @@ start (December → September)** for easy year-round reference.
         May–Sep (peaks late summer in the Bay Area)
       </td>
       <td>
-        Its fruit is the
-        traditional natural yellow dye (栀子黄, gardenia yellow) and a
-        Chinese medicine (栀子, shanzhizi); in pop culture 《栀子花开》
-        ("Gardenia Blooms") = the symbol of youth / summer; in Japan
-        くちなし carries a melancholy image (the cemetery-planting
-        tradition)
+        <ul>
+        <li>Fruit = the traditional natural yellow dye (栀子黄, gardenia
+        yellow) and a Chinese medicine (栀子, shanzhizi)</li>
+        <li>Pop culture: 《栀子花开》("Gardenia Blooms") = the symbol of
+        youth / summer</li>
+        <li>Japan: くちなし carries a melancholy image (the cemetery-planting
+        tradition)</li>
+        </ul>
       </td>
     </tr>
     <tr>
