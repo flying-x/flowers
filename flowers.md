@@ -482,7 +482,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        Damask Rose （ Rosa × damascena ）
+        Damask Rose (Rosa × damascena)
         <br>
         <img src="assets/flowers/damask-rose.jpg" alt="Damask Rose" />
       </td>
@@ -490,18 +490,28 @@ start (December → September)** for easy year-round reference.
         大马士革玫瑰（大马士革蔷薇、突厥蔷薇）
       </td>
       <td>
-        中难：雾带里挑<strong>最晒、最干、排水最好</strong>的位置；凉湿春秋防霜
-        霉/白粉；雾会明显削弱出香[7]
+        Moderate difficulty: in the fog belt, pick <strong>the sunniest,
+        driest, best-drained</strong> spot; in cool, wet springs and autumns,
+        watch for downy mildew and powdery mildew; fog clearly weakens scent
+        production [7]
       </td>
       <td>
-        ★★★★★ 玫瑰香基准（ rose otto/纯露都出自它）；雾区夏凉会打折
+        ★★★★★ The "rose" scent standard: rose otto (attar) and rose dew (rose
+        water) are both distilled from it; cool summers under fog cut the
+        output
       </td>
       <td>
-        5–6 月（单季）
+        May–Jun (single season)
       </td>
       <td>
-        伊朗国花，沙特 Taif 玫瑰蒸馏技艺入联合国非遗；印度 gulab （玫瑰水/酱）的
-        信仰与饮食基底；中国玫瑰饼/玫瑰月饼/玫瑰露酒传统
+        National flower of Iran; Saudi Taif rose culture (rose-water
+        distillation and related practices) registered on UNESCO's
+        intangible cultural heritage list in December 2024; in India the
+        base of gulab (rose water / rose jam) — desserts like gulab
+        jamun, and a scent woven through religious practice; the
+        reference standard behind China's edible-rose traditions: rose
+        cake (玫瑰饼), rose mooncake (玫瑰月饼), rose dew wine
+        (玫瑰露酒)
       </td>
     </tr>
     <tr>
