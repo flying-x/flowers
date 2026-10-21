@@ -467,7 +467,7 @@ start (December → September)** for easy year-round reference.
     </tr>
     <tr>
       <td>
-        California Mock Orange （ Philadelphus lewisii ）
+        California Mock Orange (Philadelphus lewisii)
         <br>
         <img src="assets/flowers/california-mock-orange.jpg" alt="California Mock Orange" />
       </td>
@@ -475,17 +475,24 @@ start (December → September)** for easy year-round reference.
         山梅花（刘易斯山梅花）
       </td>
       <td>
-        好种：太平洋西北原生，耐寒健壮，全日照，夏适量给水
+        Easy to grow: native to the Pacific Northwest (range extends
+        into the Sierra Nevada of central California); cold-hardy
+        (USDA zone 4) and vigorous; full sun; moderate summer water
       </td>
       <td>
-        ★★★★ 花季" 橙花/ mock orange" 浓香
+        ★★★★ Heavy "orange blossom/mock orange" scent during bloom;
+        sweet, heady, citrus-blossom-like, some sources note a hint
+        of pineapple
       </td>
       <td>
-        5–6 月
+        May–Jun (late spring to early summer)
       </td>
       <td>
-        种名无亚洲背景；" 山梅花" 是 Philadelphus 属的中文正名，容易让人误以为有
-        中式渊源
+        No Asian cultural background: the specific name (lewisii)
+        commemorates Meriwether Lewis of the Lewis and Clark
+        expedition; "山梅花" (mountain plum-blossom) is the
+        established Chinese name for the genus Philadelphus, which
+        can be mistaken for a Chinese-origin plant
       </td>
     </tr>
     <tr>
