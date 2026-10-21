@@ -620,7 +620,7 @@ start (December → September)** for easy year-round reference.
         heavy fog and not-hot-enough summers mean fewer flowers and a blunted
         scent; plant in the sunniest, warmest corner possible; repeat-flowering
         types (佛顶珠 Fodingzhu / 四季桂 Sijigui) bloom more reliably here than
-        金桂 Jingu ì[7]
+        金桂 Jingui[7]
       </td>
       <td>
         ★★★★★ The benchmark of autumn scent (still the strongest autumn
@@ -631,8 +631,8 @@ start (December → September)** for easy year-round reference.
       </td>
       <td>
         #1 in the table for cultural weight: the flower most tied to the
-        Mid-Autumn Festival (桂花月饼 osmanthus mooncakes); 折桂 “picking
-        osmanthus in the moon palace” = the millennial metaphor for passing the
+        Mid-Autumn Festival (桂花月饼 osmanthus mooncakes); 折桂 "picking
+        osmanthus in the moon palace" = the millennial metaphor for passing the
         imperial exams (科举及第); osmanthus wine/cakes/tea; written through by
         Li Bai (李白), Lu You (陆游) and poets of every age since; in Japan one
         of the three great aromatic trees (三大香木), with daphne and gardenia;
